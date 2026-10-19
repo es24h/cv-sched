@@ -1,0 +1,5121 @@
+{
+ "generated_at": "2026-10-19T08:36:11+02:00",
+ "city": "amsterdam",
+ "from": "2026-10-19",
+ "to": "2026-10-28",
+ "rules": "weekdays: start 18:00-20:00; Sat/Sun: whole day (04:00-04:00); Amsterdam time",
+ "screenings_per_day": {
+  "2026-10-19": 52,
+  "2026-10-20": 52,
+  "2026-10-21": 50,
+  "2026-10-22": 11,
+  "2026-10-23": 10,
+  "2026-10-24": 43,
+  "2026-10-25": 46,
+  "2026-10-26": 6,
+  "2026-10-27": 10,
+  "2026-10-28": 12
+ },
+ "film_count": 100,
+ "films": [
+  {
+   "title": "A River Runs Through It",
+   "slug": "a-river-runs-through-it",
+   "year": 1992,
+   "directors": [
+    "Robert Redford"
+   ],
+   "cast": [
+    "Brad Pitt",
+    "Craig Sheffer",
+    ""
+   ],
+   "duration": 123,
+   "languages": [
+    "en"
+   ],
+   "description": "Robert Redford (Ordinary People) castte Brad Pitt en Craig Sheffer als twee wel hele verschillende broers, tegen de achtergrond van idyllisch Montana in 1920.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 16:00",
+     "weekday": "Sat",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197373"
+    }
+   ]
+  },
+  {
+   "title": "Akira (re-release)",
+   "slug": "akira",
+   "year": 1988,
+   "directors": [
+    "Katsuhiro Ôtomo"
+   ],
+   "cast": [],
+   "duration": 124,
+   "languages": [
+    "ja"
+   ],
+   "description": "Katsuhiro Otomo bewerkte zijn eigen populaire mangareeks tot de iconische animatiefilm Akira, die begin jaren negentig de westerse sluizen opende voor Japanse anime.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 13:20",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317456"
+    }
+   ]
+  },
+  {
+   "title": "Amores Perros",
+   "slug": "amores-perros",
+   "year": 2000,
+   "directors": [
+    "Alejandro González Iñárritu"
+   ],
+   "cast": [
+    "Álvaro Guerrero",
+    "Emilio Echevarría",
+    "Gael García Bernal",
+    "Goya Toledo"
+   ],
+   "duration": 153,
+   "languages": [
+    "es"
+   ],
+   "description": "Het levenslustige, cynische en indringende debuut van Alejandro González Iñárritu (Birdman, The Revenant).",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 19:30",
+     "weekday": "Sun",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1315328"
+    }
+   ]
+  },
+  {
+   "title": "Being John Malkovich",
+   "slug": "being-john-malkovich",
+   "year": 1999,
+   "directors": [
+    "Spike Jonze"
+   ],
+   "cast": [
+    "Cameron Diaz",
+    "John Cusack",
+    "John Malkovich"
+   ],
+   "duration": 112,
+   "languages": [
+    "en"
+   ],
+   "description": "Onnavolgbare gekkigheid van hersenkronkelhelden Spike Jonze (regie) en Charlie Kaufman (scenario).",
+   "tags": [
+    "classic",
+    "noSubtitles"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 18:30",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic",
+      "noSubtitles"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197388"
+    }
+   ]
+  },
+  {
+   "title": "Brand New Landscape",
+   "slug": "brand-new-landscape",
+   "year": 2026,
+   "directors": [
+    "Yuiga Danzuka"
+   ],
+   "cast": [
+    "Kurosaki Kodai",
+    "Endo Kenichi",
+    "Igawa Haruk"
+   ],
+   "duration": 115,
+   "languages": [
+    "ja-JP"
+   ],
+   "description": "Ren bezorgt orchideeën in Tokyo en worstelt met zijn relatie met zijn ouders, tot één levering alles verandert.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Rialto De Pijp",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Brand-New-Landscape-19-Oct-11927847?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Rialto De Pijp",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Brand-New-Landscape-20-Oct-11927887?utm_source=Cineville&utm_campaign=ticketlink"
+    }
+   ]
+  },
+  {
+   "title": "Böse Spiele Rimini Sparta",
+   "slug": "bose-spiele-rimini-sparta",
+   "year": 2023,
+   "directors": [
+    "Ulrich Seidl"
+   ],
+   "cast": [],
+   "duration": 205,
+   "languages": [
+    "de"
+   ],
+   "description": "Filmmaker Ulrich Seidl brengt de broers Richie (Rimini) en Ewald (Sparta) samen, en verbindt ze met hun dementerende vader.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 19:00",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303630"
+    }
+   ]
+  },
+  {
+   "title": "Charlie Harper",
+   "slug": "charlie-harper",
+   "year": 2025,
+   "directors": [
+    "Tom Dean",
+    "Mac Eldridge",
+    ""
+   ],
+   "cast": [
+    "Nick Robinson",
+    "Emilia Jones",
+    ""
+   ],
+   "duration": 0,
+   "languages": [
+    "en"
+   ],
+   "description": "Portret van een jarenlange relatie tussen een ambitieuze chef-kok (Emilia Jones) en een dwalende dromer (Nick Robinson).",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 20:00",
+     "weekday": "Tue",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 20:00",
+     "weekday": "Fri",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Clue",
+   "slug": "clue",
+   "year": 1985,
+   "directors": [
+    "Jonathan Lynn"
+   ],
+   "cast": [
+    "Eileen Brennan",
+    "Tim Curry",
+    "Madeline Kahn"
+   ],
+   "duration": 97,
+   "languages": [
+    "en"
+   ],
+   "description": "Speel een levend potje Cluedo met Tim Curry in deze whodunit-klassieker.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 12:30",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317418"
+    }
+   ]
+  },
+  {
+   "title": "Clueless",
+   "slug": "clueless",
+   "year": 1995,
+   "directors": [
+    "Amy Heckerling"
+   ],
+   "cast": [
+    "Alicia Silverstone",
+    "Brittany Murphy",
+    "Stacey Dash"
+   ],
+   "duration": 97,
+   "languages": [
+    "en"
+   ],
+   "description": "Trek je mooiste jaren negentig-outfit aan voor dé tienerklassieker van generatie MTV.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315194"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:15",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315521"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:05",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315195"
+    },
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 18:45",
+     "weekday": "Fri",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317454"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:20",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317403"
+    }
+   ]
+  },
+  {
+   "title": "Congo Boy",
+   "slug": "congo-boy",
+   "year": 2026,
+   "directors": [
+    "Rafiki Fariala"
+   ],
+   "cast": [],
+   "duration": 95,
+   "languages": [],
+   "description": "Over groot durven te dromen, met de in de Centraal-Afrikaanse Republiek wonende 17-jarige Robert die maar één ding wil: muzikant worden.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:00",
+     "weekday": "Wed",
+     "venue": "Het Ketelhuis",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1317034"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:15",
+     "weekday": "Wed",
+     "venue": "Het Ketelhuis",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1317035"
+    }
+   ]
+  },
+  {
+   "title": "Coward",
+   "slug": "coward",
+   "year": 2026,
+   "directors": [
+    "Lukas Dhont"
+   ],
+   "cast": [
+    "Emmanuel Macchia",
+    "Valentin Campagne",
+    "Jef Jacobs"
+   ],
+   "duration": 120,
+   "languages": [
+    "fr",
+    "nl-BE"
+   ],
+   "description": "Een masculien liefdesverhaal van Lukas Dhont (Close) aan het front, op het toneel en voor altijd.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:45",
+     "weekday": "Thu",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/309d4c66-cc0f-48ea-11f6-08df1f1cc83a-coward?showId=7a2d6809-d9f9-42b8-ad52-0f765ecdfd4f"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/309d4c66-cc0f-48ea-11f6-08df1f1cc83a-coward?showId=655ab8d6-91bb-4810-829a-17a3655b808b"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 17:00",
+     "weekday": "Sun",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6832"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 18:30",
+     "weekday": "Mon",
+     "venue": "Rialto De Pijp",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Coward-26-Oct-11927256?utm_source=Cineville&utm_campaign=ticketlink"
+    }
+   ]
+  },
+  {
+   "title": "Daft Punk - Interstella 5555",
+   "slug": "ade-daft-punk-interstella-5555",
+   "year": 2003,
+   "directors": [
+    "Kazuhisa Takenôchi"
+   ],
+   "cast": [],
+   "duration": 68,
+   "languages": [
+    "ja",
+    "en"
+   ],
+   "description": "Een unieke samenwerking tussen het Franse muziekduo Daft Punk, het Japanse Toei Animation en manga- en anime-maker Leiji Matsumoto.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 21:30",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1313482"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 19:55",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1313483"
+    }
+   ]
+  },
+  {
+   "title": "Daft Punk's Electroma",
+   "slug": "daft-punks-electroma",
+   "year": 2006,
+   "directors": [
+    "Daft Punk"
+   ],
+   "cast": [],
+   "duration": 74,
+   "languages": [],
+   "description": "Avant-garde sciencefictionfilm geregisseerd door elektronische muziekduo Daft Punk.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 19:45",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315634"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 18:15",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1314794"
+    }
+   ]
+  },
+  {
+   "title": "Daisies",
+   "slug": "madeliefjes-daisies",
+   "year": 1966,
+   "directors": [
+    "Věra Chytilová"
+   ],
+   "cast": [
+    "Ivana Karbanová",
+    "Jitka Cerhová"
+   ],
+   "duration": 74,
+   "languages": [
+    "cs"
+   ],
+   "description": "Anarchistische klassieker over twee verveelde meisjes die de boel op stelten zetten.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:15",
+     "weekday": "Tue",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1315333"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:20",
+     "weekday": "Wed",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1317285"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 17:20",
+     "weekday": "Sat",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319677"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 19:20",
+     "weekday": "Mon",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319627"
+    }
+   ]
+  },
+  {
+   "title": "De grote Sinterklaasfilm en de vliegende Pieten",
+   "slug": "de-grote-sinterklaasfilm-en-de-vliegende-pieten",
+   "year": 2026,
+   "directors": [
+    "Lucio Messercola"
+   ],
+   "cast": [
+    "Robert ten Brink",
+    "Martien Meiland",
+    "K3",
+    "Jan Smit"
+   ],
+   "duration": 79,
+   "languages": [
+    "nl"
+   ],
+   "description": "De Pieten en K3 moeten alles uit de kast halen om het Sinterklaasfeest te redden.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 11:30",
+     "weekday": "Sun",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Der Held Vom Bahnhof Friedrichstraße",
+   "slug": "der-held-vom-bahnhof-friedrichstrae",
+   "year": 2026,
+   "directors": [
+    "Wolfgang Becker",
+    "Achim von Borries"
+   ],
+   "cast": [],
+   "duration": 112,
+   "languages": [
+    "de"
+   ],
+   "description": "Een videotheekeigenaar wordt door Stasi-dossiers ineens gebombardeerd tot nationale held, maar raakt verstrikt in z'n eigen opgeklopte mythe.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1304923"
+    }
+   ]
+  },
+  {
+   "title": "Digger",
+   "slug": "digger",
+   "year": 2026,
+   "directors": [
+    "Alejandro González Iñárritu"
+   ],
+   "cast": [
+    "Tom Cruise",
+    "Riz Ahmed",
+    "John Goodman",
+    "Sandra Hüller"
+   ],
+   "duration": 126,
+   "languages": [
+    "en"
+   ],
+   "description": "Alejandro González Iñárritu strikte Tom Cruise voor een ‘comedy of catastrophic proportions’.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/241c2d02-3751-4ebd-bbcf-08df1a5c5686-digger?showId=99f29cce-4ec8-4069-ad55-d3a9942a1c12"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:55",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315511"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Studio/K",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/b2e3f8f7-35de-4270-9172-9e9d30e94b2e"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/241c2d02-3751-4ebd-bbcf-08df1a5c5686-digger?showId=286ebc89-80d0-4b34-accc-60b0a70deba9"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:30",
+     "weekday": "Tue",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317834"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:25",
+     "weekday": "Wed",
+     "venue": "Kriterion",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1318031"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/241c2d02-3751-4ebd-bbcf-08df1a5c5686-digger?showId=d6eae97b-4a7b-437f-87c1-30239c021e6e"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 19:30",
+     "weekday": "Thu",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 13:40",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317423"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 20:00",
+     "weekday": "Sat",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:45",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317421"
+    }
+   ]
+  },
+  {
+   "title": "Downtown",
+   "slug": "downtown",
+   "year": 2026,
+   "directors": [
+    "Michiel van Erp"
+   ],
+   "cast": [
+    "Yorick van Wageningen",
+    "Hans Kesting",
+    "Roeland Fernhout",
+    "Daniel Cornelissen"
+   ],
+   "duration": 100,
+   "languages": [
+    "nl"
+   ],
+   "description": "Drie jonge vrienden storten zich vol overgave in de gay scene van Amsterdam in de jaren 80. Tweeëndertig jaar later proberen ze hun vriendschap nieuw leven in te blazen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205251"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205252"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205350"
+    }
+   ]
+  },
+  {
+   "title": "Fantasy",
+   "slug": "fantasy",
+   "year": 0,
+   "directors": [
+    "Kukla"
+   ],
+   "cast": [],
+   "duration": 98,
+   "languages": [],
+   "description": "Drie tomboys van begin twintig verzetten zich in Slovenië samen tegen traditionele gendernormen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:15",
+     "weekday": "Wed",
+     "venue": "Kriterion",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1314112"
+    }
+   ]
+  },
+  {
+   "title": "Felice... Felice...",
+   "slug": "felice-felice",
+   "year": 1998,
+   "directors": [
+    "peter Delpeut"
+   ],
+   "cast": [],
+   "duration": 99,
+   "languages": [],
+   "description": "Een ode aan de liefde, aan de filmgeschiedenis (Ozu) en aan de liefde voor film.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1306385"
+    }
+   ]
+  },
+  {
+   "title": "Filmcursus: Eigenzinnige regisseurs",
+   "slug": "filmcursus-eigenzinnige-regisseurs",
+   "year": 2026,
+   "directors": [],
+   "cast": [],
+   "duration": 0,
+   "languages": [
+    "nl"
+   ],
+   "description": "Wat maakt een regisseur écht eigenzinnig? Verdiep je tijdens deze cursus in de werken van spraakmakende regisseurs.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:30",
+     "weekday": "Tue",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Filmmagie: Teken je eigen filmstrook",
+   "slug": "teken-je-eigen-filmstrook",
+   "year": 2026,
+   "directors": [],
+   "cast": [],
+   "duration": 90,
+   "languages": [],
+   "description": "Kijk een paar korte kinderfilms en maak daarna een filmpje van echte celluloid-filmstroken (vanaf 6 jaar).",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:00",
+     "weekday": "Sun",
+     "venue": "Eye",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311643"
+    }
+   ]
+  },
+  {
+   "title": "Flaming Ears",
+   "slug": "flaming-ears",
+   "year": 1992,
+   "directors": [
+    "Ursula Puerrer",
+    "A. Hans Scheirl",
+    "Dietmar Schipek",
+    ""
+   ],
+   "cast": [],
+   "duration": 89,
+   "languages": [
+    "de"
+   ],
+   "description": "Een pop-sci-fi, lesbische fantasiefilm over de verstrengelde levens van drie vrouwen: Volley, Nun en Spy.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 23:59",
+     "weekday": "Sat",
+     "venue": "Kriterion",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1313676"
+    }
+   ]
+  },
+  {
+   "title": "Franz",
+   "slug": "franz-2026",
+   "year": 2026,
+   "directors": [
+    "Agnieszka Holland"
+   ],
+   "cast": [
+    "Idan Weiss",
+    "Jenovefa Bokova",
+    "Maria Schrader"
+   ],
+   "duration": 127,
+   "languages": [
+    "de",
+    "cs-CZ"
+   ],
+   "description": "Regisseur Agnieszka Holland schetst het levensverhaal van de Tsjechische schrijver Franz Kafka, van begin tot eind.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Kriterion",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1318975"
+    }
+   ]
+  },
+  {
+   "title": "Good Time",
+   "slug": "good-time",
+   "year": 2017,
+   "directors": [
+    "Ben Safdie",
+    "Joshua Safdie"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Benny Safdie",
+    "Jennifer Jason Leigh"
+   ],
+   "duration": 100,
+   "languages": [
+    "en"
+   ],
+   "description": "Bankrover Connie (Robert Pattinson) rent zich rot in NYC, op zoek naar geld voor zijn in de gevangenis belande broertje.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 16:15",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317406"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 21:05",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315286"
+    }
+   ]
+  },
+  {
+   "title": "Heart of the Beast",
+   "slug": "heart-of-the-beast",
+   "year": 2026,
+   "directors": [
+    "David Ayer"
+   ],
+   "cast": [
+    "Brad Pitt",
+    "J.K. Simmons",
+    "Anna Lambe"
+   ],
+   "duration": 101,
+   "languages": [
+    "en"
+   ],
+   "description": "Avonturenthriller waarin Special Forces-officier James (Brad Pitt) samen met legerhond Odin moet zien te overleven in de wildernis.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 19:30",
+     "weekday": "Fri",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:30",
+     "weekday": "Sun",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Het vergeten eiland",
+   "slug": "het-vergeten-eiland",
+   "year": 2026,
+   "directors": [
+    "Joel Crawford",
+    "Januel Mercado"
+   ],
+   "cast": [],
+   "duration": 77,
+   "languages": [
+    "nl"
+   ],
+   "description": "Een nieuw avontuur van DreamWorks over twee hartsvriendinnen die elkaar dreigen te verliezen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 14:00",
+     "weekday": "Sun",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Human Nature",
+   "slug": "human-nature",
+   "year": 2026,
+   "directors": [
+    "Bart Schrijver"
+   ],
+   "cast": [
+    "Jamie Bouwmeester"
+   ],
+   "duration": 141,
+   "languages": [
+    "nl-NL"
+   ],
+   "description": "Sophie besluit 500 kilometer te gaan hiken in Noorwegen, om te ontsnappen aan de druk in Nederland.",
+   "tags": [
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 19:45",
+     "weekday": "Tue",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 20:00",
+     "weekday": "Wed",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [
+      "special"
+     ],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Hundstage",
+   "slug": "dog-days",
+   "year": 2001,
+   "directors": [
+    "Ulrich Seidl"
+   ],
+   "cast": [],
+   "duration": 83,
+   "languages": [
+    "de"
+   ],
+   "description": "Ulrich Seidl schetst in zijn eerste speelfilm een beklemmend portret van verloren zielen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 18:30",
+     "weekday": "Fri",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303662"
+    }
+   ]
+  },
+  {
+   "title": "I Love Boosters",
+   "slug": "i-love-boosters",
+   "year": 2026,
+   "directors": [
+    "Boots Riley"
+   ],
+   "cast": [
+    "Keke Palmer",
+    "LaKeith Stanfield",
+    "Naomi Ackie"
+   ],
+   "duration": 105,
+   "languages": [
+    "en"
+   ],
+   "description": "Marxist en maximalist Boots Riley (Sorry to Bother You) is terug en zet samen met Keke Palmer, Naomi Ackie en Taylour Paige het laatkapitalisme op z'n kop.",
+   "tags": [
+    "preview"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:40",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315186"
+    }
+   ]
+  },
+  {
+   "title": "Im Keller",
+   "slug": "im-keller",
+   "year": 2014,
+   "directors": [
+    "Ulrich Seidl"
+   ],
+   "cast": [],
+   "duration": 81,
+   "languages": [
+    "de"
+   ],
+   "description": "Ulrich Seidl (Paradies: Liebe) duikt in de kelders van bewoners van de Oostenrijkse voorsteden.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 12:45",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1317000"
+    }
+   ]
+  },
+  {
+   "title": "Imago",
+   "slug": "imago-deni-oumar-pitsaev",
+   "year": 2025,
+   "directors": [
+    "Déni Oumar Pitsaev"
+   ],
+   "cast": [],
+   "duration": 109,
+   "languages": [
+    "ka"
+   ],
+   "description": "Wanneer filmmaker Déni een stuk land erft in Georgië, begint hij aan een zoektocht naar zijn roots.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:15",
+     "weekday": "Mon",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1318348"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:00",
+     "weekday": "Tue",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1318361"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 20:00",
+     "weekday": "Wed",
+     "venue": "Het Documentaire Paviljoen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:15",
+     "weekday": "Sun",
+     "venue": "Het Documentaire Paviljoen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    }
+   ]
+  },
+  {
+   "title": "Import Export",
+   "slug": "import-export",
+   "year": 2007,
+   "directors": [
+    "Ulrich Seidl"
+   ],
+   "cast": [],
+   "duration": 135,
+   "languages": [
+    "de"
+   ],
+   "description": "Portret van de Weense Pauli en de Oekraïense Olga, twee authentieke have nots.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:30",
+     "weekday": "Sun",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303668"
+    }
+   ]
+  },
+  {
+   "title": "In the Mood for Love",
+   "slug": "mood-love",
+   "year": 2000,
+   "directors": [
+    "Wong Kar-wai"
+   ],
+   "cast": [
+    "Maggie Cheung",
+    "Tony Leung"
+   ],
+   "duration": 98,
+   "languages": [],
+   "description": "Een meesterlijke liefdeswals van regisseur Wong Kar-wai.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 19:00",
+     "weekday": "Tue",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319633"
+    }
+   ]
+  },
+  {
+   "title": "In the Name of the Father",
+   "slug": "name-father",
+   "year": 1993,
+   "directors": [
+    "Jim Sheridan"
+   ],
+   "cast": [],
+   "duration": 133,
+   "languages": [
+    "en"
+   ],
+   "description": "Het waargebeurde verhaal over een Ierse vader en zoon (Daniel Day-Lewis), die allebei ten onrechte gevangen worden gezet door de Britse overheid.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197366"
+    }
+   ]
+  },
+  {
+   "title": "Juste une illusion",
+   "slug": "juste-une-illusion",
+   "year": 2026,
+   "directors": [
+    "Olivier Nakache",
+    "Eric Toledano"
+   ],
+   "cast": [
+    "Camille Cottin",
+    "Louis Garrel",
+    "Pierre Lottin"
+   ],
+   "duration": 115,
+   "languages": [
+    "fr"
+   ],
+   "description": "Feelgoodfilm van de makers van Intouchables waarin een verliefde tiener opgroeit tegen de achtergrond van de jaren 80 en een ruziënd gezin.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:00",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/456b1b4b-d38b-4d6d-a995-08decc468709-justeuneillusion?showId=f0b76d3a-07c8-430f-a1d7-f54036266129"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205223"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205224"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/456b1b4b-d38b-4d6d-a995-08decc468709-justeuneillusion?showId=153f38ea-5358-41eb-845b-927b3a3cde00"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:45",
+     "weekday": "Tue",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:30",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205225"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 20:00",
+     "weekday": "Thu",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 19:30",
+     "weekday": "Sat",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Krieg in Wien",
+   "slug": "krieg-in-wien",
+   "year": 1989,
+   "directors": [
+    "Ulrich Seidl",
+    "Michael Glawogger"
+   ],
+   "cast": [],
+   "duration": 84,
+   "languages": [
+    "de",
+    "en"
+   ],
+   "description": "Filmmakers Glawogger en Seidl confronteren het burgerlijke Wenen met de rauwe werkelijkheid van het wereldnieuws.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:00",
+     "weekday": "Wed",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303676"
+    }
+   ]
+  },
+  {
+   "title": "Kusama: Infinity",
+   "slug": "kusama-infinity",
+   "year": 2018,
+   "directors": [
+    "Heather Lenz"
+   ],
+   "cast": [],
+   "duration": 76,
+   "languages": [
+    "en"
+   ],
+   "description": "Een portret van kunstenaar Yayoi Kusama, de prinses van de polkadot. 'De polkadot is de weg naar oneindigheid.'",
+   "tags": [
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 14:30",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "special"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317417"
+    }
+   ]
+  },
+  {
+   "title": "L'inconnue",
+   "slug": "linconnue",
+   "year": 2026,
+   "directors": [
+    "Arthur Harari"
+   ],
+   "cast": [
+    "Niels Schneider",
+    "Léa Seydoux",
+    "Valérie Dréville"
+   ],
+   "duration": 140,
+   "languages": [
+    "fr-FR"
+   ],
+   "description": "Onveilige seks leidt tot bizarre taferelen in deze fantasierijke bodyswap-horror vol identiteitscrises.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 20:00",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8b2f2918-72b5-4715-11f0-08df1f1cc83a-linconnue?showId=b2d4afda-9aa1-4eca-bf83-f04d6576ef25"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 20:00",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8b2f2918-72b5-4715-11f0-08df1f1cc83a-linconnue?showId=1ed3d000-2f61-4288-8c09-536ddacbf2c9"
+    }
+   ]
+  },
+  {
+   "title": "La double vie de Véronique",
+   "slug": "la-double-vie-de-veronique",
+   "year": 1991,
+   "directors": [
+    "Krzysztof Kieslowski"
+   ],
+   "cast": [
+    "Irène Jacob",
+    "Anna Gronostaj",
+    "Philippe Volter",
+    "Claude Duneton"
+   ],
+   "duration": 98,
+   "languages": [
+    "pl"
+   ],
+   "description": "Dubbelportret van Weronika in Krakau en haar dubbelganger Véronique in Frankrijk (twee keer actrice Irène Jacob).",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 18:30",
+     "weekday": "Fri",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197376"
+    }
+   ]
+  },
+  {
+   "title": "La haine",
+   "slug": "la-haine",
+   "year": 1995,
+   "directors": [
+    "Mathieu Kassovitz"
+   ],
+   "cast": [
+    "Hubert Koundé",
+    "Saïd Taghmaoui",
+    "Vincent Cassel"
+   ],
+   "duration": 98,
+   "languages": [
+    "fr"
+   ],
+   "description": "Profetisch gebleken jeugddrama over drie vrienden die dolen door de Parijse banlieues.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 12:40",
+     "weekday": "Sat",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319679"
+    }
+   ]
+  },
+  {
+   "title": "La vita è bella",
+   "slug": "la-vita-e-bella",
+   "year": 1997,
+   "directors": [
+    "Roberto Benigni"
+   ],
+   "cast": [
+    "Roberto Benigni",
+    "Nicoletta Braschi",
+    "Giorgio Cantarini"
+   ],
+   "duration": 115,
+   "languages": [
+    "it"
+   ],
+   "description": "Acteur en regisseur Robberto Beningi wist vriend en vijand te verrassen met deze mix van tragedie en komedie over het leven in Italië tijdens de Tweede Wereldoorlog.",
+   "tags": [
+    "classic",
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:30",
+     "weekday": "Thu",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "special",
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197378"
+    },
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 18:30",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "special",
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197379"
+    }
+   ]
+  },
+  {
+   "title": "Les parapluies de Cherbourg (re-release)",
+   "slug": "les-parapluies-de-cherbourg",
+   "year": 1964,
+   "directors": [
+    "Jacques Demy"
+   ],
+   "cast": [
+    "Anne Vernon",
+    "Catherine Deneuve",
+    "Nino Casternuovo"
+   ],
+   "duration": 90,
+   "languages": [
+    "fr"
+   ],
+   "description": "Een volledig gezongen liefdesmelodrama met Catherine Deneuve.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 10:30",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1317211"
+    }
+   ]
+  },
+  {
+   "title": "Love",
+   "slug": "love-2025",
+   "year": 2025,
+   "directors": [
+    "Dag Johan Haugerud"
+   ],
+   "cast": [
+    "Tayo Cittadella",
+    "Andrea Bræin Hovig",
+    "Thomas Gullestad"
+   ],
+   "duration": 120,
+   "languages": [
+    "no"
+   ],
+   "description": "De tweede film uit de Sex, Love, Dreams-trilogie van regisseur Dag Johan Haugerud, over verschillende (liefdes)verhalen in Oslo.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 14:45",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1309204"
+    }
+   ]
+  },
+  {
+   "title": "Matloob Aelian",
+   "slug": "matloob-aelian",
+   "year": 2026,
+   "directors": [],
+   "cast": [
+    "Karim Abdel Aziz",
+    "Yasmine Sabri",
+    "Mostafa Khater"
+   ],
+   "duration": 120,
+   "languages": [
+    "ar"
+   ],
+   "description": "Een overwerkte supermarktmanager ziet z'n leven veranderen in een chaos wanneer z'n werkloze zwager intrekt.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 20:00",
+     "weekday": "Mon",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317714"
+    }
+   ]
+  },
+  {
+   "title": "Mishima: a Life in Four Chapters",
+   "slug": "mishima-a-life-in-four-chapters",
+   "year": 1985,
+   "directors": [
+    "Paul Schrader"
+   ],
+   "cast": [
+    "Ken Ogata",
+    "Kenji Sawada",
+    "Toshiyuki Nagashima"
+   ],
+   "duration": 120,
+   "languages": [
+    "ja",
+    "en"
+   ],
+   "description": "Paul Schraders biopic over de Japanse auteur Yukio Mishima.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 21:00",
+     "weekday": "Sun",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1303807"
+    }
+   ]
+  },
+  {
+   "title": "Monster Mia",
+   "slug": "monster-mia",
+   "year": 2037,
+   "directors": [
+    "Verena Fels"
+   ],
+   "cast": [],
+   "duration": 82,
+   "languages": [
+    "nl"
+   ],
+   "description": "In deze kleurrijke animatiefilm gelooft niemand nog in monsters, behalve Mia, die met ze naar school gaat.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 13:00",
+     "weekday": "Sat",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Naza",
+   "slug": "naza",
+   "year": 2026,
+   "directors": [
+    "Yuval Abraham",
+    "Rachel Szor"
+   ],
+   "cast": [],
+   "duration": 80,
+   "languages": [
+    "he"
+   ],
+   "description": "24 Israëlische soldaten getuigen voor de camera van No Other Land-makers Yuval Abraham en Rachel Szor over hun aanvallen op Gaza.",
+   "tags": [
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:00",
+     "weekday": "Mon",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6956"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1318350"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839734?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:50",
+     "weekday": "Mon",
+     "venue": "FC Hyena",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1318108"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:50",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205098"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315519"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Het Ketelhuis",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1318093"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204791"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Rialto De Pijp",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Naza-19-Oct-11927837?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Studio/K",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/9f312cf6-4bb6-465a-9dbd-d1eee8c67533"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:15",
+     "weekday": "Tue",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6954"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:50",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205099"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:55",
+     "weekday": "Tue",
+     "venue": "Kriterion",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1318981"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204792"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "Studio/K",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/1874d937-8c69-41c6-bdbd-738017fe6bd6"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:05",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315238"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:15",
+     "weekday": "Tue",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1317275"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:15",
+     "weekday": "Tue",
+     "venue": "Rialto De Pijp",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Naza-20-Oct-11927836?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1318373"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204793"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205183"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/7001"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Studio/K",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/5a8ce1f6-2440-41a8-ab5a-f28a2c3b9d1c"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:15",
+     "weekday": "Wed",
+     "venue": "Rialto De Pijp",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Naza-21-Oct-11927835?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 19:10",
+     "weekday": "Thu",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319622"
+    },
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 19:10",
+     "weekday": "Fri",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319623"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 12:45",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317151"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 14:50",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317154"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 17:00",
+     "weekday": "Sat",
+     "venue": "Rialto De Pijp",
+     "subtitles": [],
+     "tags": [
+      "special"
+     ],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Naza-24-Oct-11927815?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 14:40",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317155"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:50",
+     "weekday": "Sun",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319632"
+    }
+   ]
+  },
+  {
+   "title": "Network",
+   "slug": "network",
+   "year": 1976,
+   "directors": [
+    "Sidney Lumet"
+   ],
+   "cast": [
+    "Faye Dunaway",
+    "Peter Finch"
+   ],
+   "duration": 101,
+   "languages": [
+    "en"
+   ],
+   "description": "'I'M AS MAD AS HELL, AND I'M NOT GOING TO TAKE THIS ANYMORE!'",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 19:00",
+     "weekday": "Sat",
+     "venue": "Kriterion",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1313682"
+    }
+   ]
+  },
+  {
+   "title": "New Dutch Selected Artists' Moving Image",
+   "slug": "new-selected-artists-moving-image",
+   "year": 2026,
+   "directors": [],
+   "cast": [],
+   "duration": 114,
+   "languages": [],
+   "description": "De nieuwe selectie Eye's Artist's Moving Image: experimentele films en korte kunstenaarsfilms die Eye aanbiedt aan internationale festivals en filmmarkten.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "Eye",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303155"
+    }
+   ]
+  },
+  {
+   "title": "No Country For Mothers",
+   "slug": "no-country-for-mothers",
+   "year": 2026,
+   "directors": [
+    "Raeshem Nijhon"
+   ],
+   "cast": [],
+   "duration": 78,
+   "languages": [
+    "en"
+   ],
+   "description": "Een blik op de Amerikaanse culture wars rond moederschap, waarin labels als 'girlboss' en 'tradwife' vooral afleiden van de beperkte steun voor gezinnen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "FC Hyena",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1313229"
+    }
+   ]
+  },
+  {
+   "title": "Optic Nerve & My Babushka: Searching Ukrainian Identities",
+   "slug": "optic-nerve-my-babushka-searching-ukranian-identities",
+   "year": 2026,
+   "directors": [
+    "Barbara Hammer"
+   ],
+   "cast": [],
+   "duration": 79,
+   "languages": [
+    "en",
+    "uk"
+   ],
+   "description": "Twee films van avant-gardepionier Barbara Hammer over haar roots en Oekraïense grootmoeder.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:00",
+     "weekday": "Sun",
+     "venue": "Het Documentaire Paviljoen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    }
+   ]
+  },
+  {
+   "title": "Palestine 36",
+   "slug": "palestine-36",
+   "year": 2025,
+   "directors": [
+    "Annemarie Jacir"
+   ],
+   "cast": [
+    "Jeremy Irons",
+    "Saleh Bakri",
+    "Robert Aramayo",
+    ""
+   ],
+   "duration": 118,
+   "languages": [],
+   "description": "Een mozaïekvertelling over de Arabische opstand in het Palestina van 1936.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:15",
+     "weekday": "Wed",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1318372"
+    }
+   ]
+  },
+  {
+   "title": "Perfect Days",
+   "slug": "perfect-days",
+   "year": 2023,
+   "directors": [
+    "Wim Wenders"
+   ],
+   "cast": [
+    "Kôji Yakusho",
+    "Min Tanaka",
+    "Arisa Nakano"
+   ],
+   "duration": 123,
+   "languages": [
+    "ja"
+   ],
+   "description": "Wim Wenders leidt je langs de openbare toiletten van Tokio, op misschien wel de mooiste citytrip ooit.",
+   "tags": [
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 10:15",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319418"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 11:15",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317436"
+    }
+   ]
+  },
+  {
+   "title": "Pressure",
+   "slug": "pressure",
+   "year": 2026,
+   "directors": [
+    "Anthony Maras"
+   ],
+   "cast": [
+    "Andrew Scott",
+    "Brendan Fraser",
+    "Kerry Condon",
+    "Chris Messina"
+   ],
+   "duration": 100,
+   "languages": [
+    "en"
+   ],
+   "description": "In de 72 uur voor D-Day strijdt meteoroloog Stagg (Andrew Scott) tegen de klok om generaal Eisenhower (Brendan Fraser) te overtuigen hun aanvalsplan aan te passen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:00",
+     "weekday": "Sun",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 20:00",
+     "weekday": "Tue",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "Primetime",
+   "slug": "primetime",
+   "year": 2026,
+   "directors": [
+    "Lance Oppenheim\n"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Merritt Wever",
+    "Anna Faris",
+    "Phoebe Bridgers"
+   ],
+   "duration": 108,
+   "languages": [
+    "en-GB"
+   ],
+   "description": "Het jaar is 2006, en To Catch a Predator-presentator Chris Hansen (Robert Pattinson) wil televisiegeschiedenis schrijven.",
+   "tags": [
+    "preview"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 14:30",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317148"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 21:30",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1314799"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 19:00",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311432"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:00",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311415"
+    }
+   ]
+  },
+  {
+   "title": "Resident Evil",
+   "slug": "resident-evil-2026",
+   "year": 2026,
+   "directors": [
+    "Zach Cregger"
+   ],
+   "cast": [
+    "Austin Abrams",
+    "Paul Walter Hauser",
+    "Zach Cherry",
+    "Kali Reis"
+   ],
+   "duration": 94,
+   "languages": [
+    "en"
+   ],
+   "description": "Filmmaker Zach Cregger (Weapons, Barbarian) geeft een bloedstollende nieuwe draai aan de Resident Evil-franchise.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6996"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205376"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6997"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205377"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205378"
+    }
+   ]
+  },
+  {
+   "title": "Roma (1972)",
+   "slug": "roma-1972",
+   "year": 1972,
+   "directors": [
+    "Federico Fellini"
+   ],
+   "cast": [
+    "Britta Barnes",
+    "Peter Gonzales Falcon",
+    "Fiona Florence"
+   ],
+   "duration": 120,
+   "languages": [
+    "it"
+   ],
+   "description": "Federico Fellini’s dromerige ode aan zijn geliefde Rome.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 18:30",
+     "weekday": "Sun",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319650"
+    }
+   ]
+  },
+  {
+   "title": "Royal Ballet and Opera: Manon",
+   "slug": "royal-ballet-and-opera-manon",
+   "year": 2026,
+   "directors": [],
+   "cast": [],
+   "duration": 190,
+   "languages": [],
+   "description": "Balletvertolking van Abbé Prévosts roman uit 1731.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 20:00",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/195276"
+    }
+   ]
+  },
+  {
+   "title": "Safari",
+   "slug": "safari-2016",
+   "year": 2016,
+   "directors": [
+    "Ulrich Seidl"
+   ],
+   "cast": [],
+   "duration": 90,
+   "languages": [
+    "de"
+   ],
+   "description": "Provocateur Ulrich Seidl (Im Keller, Paradies Liebe) portretteert Westerse jachtfans in Namibië.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:15",
+     "weekday": "Wed",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303700"
+    }
+   ]
+  },
+  {
+   "title": "Saving Private Ryan",
+   "slug": "saving-private-ryan",
+   "year": 1998,
+   "directors": [
+    "Steven Spielberg"
+   ],
+   "cast": [
+    "Adam Goldberg",
+    "Matt Damon",
+    "Tom Hanks"
+   ],
+   "duration": 169,
+   "languages": [
+    "en"
+   ],
+   "description": "Actierijk en meeslepend relaas over het soldatenbestaan in WOII.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 20:30",
+     "weekday": "Sun",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197387"
+    }
+   ]
+  },
+  {
+   "title": "Seeds (2025)",
+   "slug": "seeds-2025",
+   "year": 2025,
+   "directors": [
+    "Brittany Shyne"
+   ],
+   "cast": [],
+   "duration": 123,
+   "languages": [
+    "en"
+   ],
+   "description": "Volgt het ritme van het dagelijks leven van Afro-Amerikaanse boeren in het diepe zuiden van de Verenigde Staten.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 20:00",
+     "weekday": "Fri",
+     "venue": "Het Documentaire Paviljoen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 20:00",
+     "weekday": "Wed",
+     "venue": "Het Documentaire Paviljoen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    }
+   ]
+  },
+  {
+   "title": "Sense and Sensibility",
+   "slug": "sense-and-sensibility",
+   "year": 2026,
+   "directors": [
+    "Georgia Oakley"
+   ],
+   "cast": [
+    "Daisy Edgar-Jones",
+    "Caitríona Balfe",
+    "Fiona Shaw",
+    "Esmé Creed-Miles"
+   ],
+   "duration": 131,
+   "languages": [
+    "en"
+   ],
+   "description": "Een nieuwe verfilming van Jane Austens geliefde roman, met Daisy Edgar-Jones en Esmé Creed-Miles als zussen Elinor en Marianne Dashwood.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:00",
+     "weekday": "Mon",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6936"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205138"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:40",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315177"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/5b15d0e0-a37a-4883-9b13-08df0cdc6c59-senseandsensibility?showId=494b695c-8d4e-4361-a336-0b7889004f51"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:25",
+     "weekday": "Tue",
+     "venue": "Kriterion",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1317801"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317820"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205139"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/5b15d0e0-a37a-4883-9b13-08df0cdc6c59-senseandsensibility?showId=bf8484a1-d2ae-4a82-8d44-31c3ba9fd2e3"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 20:00",
+     "weekday": "Tue",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6961"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:15",
+     "weekday": "Wed",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6940"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:25",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315179"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:30",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205140"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Kriterion",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1318026"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/5b15d0e0-a37a-4883-9b13-08df0cdc6c59-senseandsensibility?showId=24f65f08-c8c0-41c5-9a44-73c239f5cee5"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 20:00",
+     "weekday": "Wed",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317821"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:50",
+     "weekday": "Thu",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309174"
+    },
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 18:30",
+     "weekday": "Fri",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309175"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 10:10",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317150"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 18:50",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309176"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 10:55",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315638"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 18:30",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309177"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 18:50",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309178"
+    },
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 18:40",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309179"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 18:50",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309180"
+    }
+   ]
+  },
+  {
+   "title": "Sentient",
+   "slug": "sentient",
+   "year": 2023,
+   "directors": [
+    "Tony Jones"
+   ],
+   "cast": [],
+   "duration": 106,
+   "languages": [
+    "en"
+   ],
+   "description": "Een onderzoek naar dierproeven in laboratoria waar niet alleen dieren schade oplopen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:00",
+     "weekday": "Wed",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6840"
+    }
+   ]
+  },
+  {
+   "title": "Shakespeare in Love",
+   "slug": "shakespeare-in-love",
+   "year": 1998,
+   "directors": [
+    "John Madden"
+   ],
+   "cast": [
+    "Joseph Fiennes",
+    "Gwyneth Paltrow",
+    "Judi Dench",
+    "Ben Affleck"
+   ],
+   "duration": 123,
+   "languages": [
+    "en"
+   ],
+   "description": "Biopic van Shakespeare met Joseph Fiennes en Gwyneth Paltrow.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 18:40",
+     "weekday": "Sat",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197381"
+    }
+   ]
+  },
+  {
+   "title": "Shall We Dance? (re-release)",
+   "slug": "shall-we-dance-re-release",
+   "year": 1996,
+   "directors": [
+    "Masayuki Suô"
+   ],
+   "cast": [
+    "Kôji Yakusho",
+    "Tamiyo Kusakar",
+    "Naoto Takenaka"
+   ],
+   "duration": 136,
+   "languages": [
+    "ja-JP"
+   ],
+   "description": "Kantoormedewerker Shohei Sugiyama raakt gefascineerd door een dansschool, en de mysterieuze instructrice Mai.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Rialto De Pijp",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Shall-We-Dance--19-Oct-11927864?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:55",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317558"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:30",
+     "weekday": "Wed",
+     "venue": "Rialto De Pijp",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Shall-We-Dance--21-Oct-11927863?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317559"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:00",
+     "weekday": "Thu",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1308599"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:20",
+     "weekday": "Thu",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316573"
+    },
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 18:20",
+     "weekday": "Fri",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316574"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 11:00",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317439"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 14:40",
+     "weekday": "Sat",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319678"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 15:50",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317411"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 18:20",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316575"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 10:00",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317386"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 12:05",
+     "weekday": "Sun",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319638"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 18:25",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316576"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 18:20",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316577"
+    },
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 18:20",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316578"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 18:20",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316579"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:30",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311122"
+    }
+   ]
+  },
+  {
+   "title": "Shaun het schaap: Het beest van de boerderij",
+   "slug": "shaun-het-schaap-het-beest-van-de-boerderij",
+   "year": 2026,
+   "directors": [
+    "Steve Cox",
+    "Matthew Walker"
+   ],
+   "cast": [],
+   "duration": 81,
+   "languages": [],
+   "description": "De bewoners van de boerderij kijken enorm uit naar Halloween; en Shaun het schaap maakt een monster.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 12:30",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319422"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 10:45",
+     "weekday": "Sun",
+     "venue": "Eye",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319421"
+    }
+   ]
+  },
+  {
+   "title": "Signalen van boven",
+   "slug": "signalen-van-boven",
+   "year": 2026,
+   "directors": [
+    "Uriël Matahelumual"
+   ],
+   "cast": [
+    "Chesron Nanuru"
+   ],
+   "duration": 61,
+   "languages": [
+    "nl"
+   ],
+   "description": "Documentaire over de verbinding van de Molukse keuken in Nederland.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317713"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317822"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:45",
+     "weekday": "Tue",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839741?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317823"
+    }
+   ]
+  },
+  {
+   "title": "Singin' in the Rain",
+   "slug": "singin-rain",
+   "year": 1952,
+   "directors": [
+    "Stanley Donen",
+    "Gene Kelly"
+   ],
+   "cast": [
+    "Debbie Reynolds",
+    "Donald O&#039",
+    "Connor",
+    "Gene Kelly"
+   ],
+   "duration": 103,
+   "languages": [
+    "en"
+   ],
+   "description": "Een spetterende klassieker in overdadige Technicolor.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 11:45",
+     "weekday": "Sun",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1315365"
+    }
+   ]
+  },
+  {
+   "title": "Sparta",
+   "slug": "sparta",
+   "year": 2022,
+   "directors": [
+    "Ulrich Seidl"
+   ],
+   "cast": [
+    "Georg Friedrich",
+    "Florentina Elena Pop",
+    "Hans-Michael Rehberg"
+   ],
+   "duration": 100,
+   "languages": [
+    "ro",
+    "de"
+   ],
+   "description": "Een nieuwe ongemakkelijke film van de Oostenrijkse provocateur Ulrich Seidl (Paradies: Liebe, Rimini).",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 18:45",
+     "weekday": "Tue",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311513"
+    }
+   ]
+  },
+  {
+   "title": "Taming the Garden",
+   "slug": "taming-the-garden",
+   "year": 2021,
+   "directors": [
+    "Salomé Jashi"
+   ],
+   "cast": [],
+   "duration": 92,
+   "languages": [
+    "ka"
+   ],
+   "description": "Een Georgische oud-president en zijn absurde botanische tuin vol zeldzame bomen.",
+   "tags": [
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 11:00",
+     "weekday": "Sun",
+     "venue": "Het Documentaire Paviljoen",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    }
+   ]
+  },
+  {
+   "title": "Tampopo (1985)",
+   "slug": "tampopo",
+   "year": 1985,
+   "directors": [
+    "Jûzô Itami"
+   ],
+   "cast": [
+    "Ken Watanabe",
+    "Tsutomu Yamazaki",
+    "Nobuko Miyamoto"
+   ],
+   "duration": 114,
+   "languages": [
+    "ja"
+   ],
+   "description": "Een smakelijke komedie over de zoektocht naar de perfecte noedelsoep.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:15",
+     "weekday": "Mon",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315544"
+    }
+   ]
+  },
+  {
+   "title": "The Annihilation of Fish",
+   "slug": "the-annihilation-of-fish",
+   "year": 1999,
+   "directors": [
+    "Charles Burnett"
+   ],
+   "cast": [],
+   "duration": 102,
+   "languages": [
+    "en"
+   ],
+   "description": "Lieflijke klassieker van regisseur Charles Burnett (Killer of Sheep) over drie onwaarschijnlijke huisgenoten in LA.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 20:00",
+     "weekday": "Sun",
+     "venue": "The Movies",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/203265"
+    }
+   ]
+  },
+  {
+   "title": "The Beloved",
+   "slug": "the-beloved",
+   "year": 2026,
+   "directors": [
+    "Rodrigo Sorogoyen"
+   ],
+   "cast": [
+    "Javier Bardem",
+    "Victoria Luengo",
+    ""
+   ],
+   "duration": 135,
+   "languages": [
+    "es",
+    "en-GB",
+    "fr-FR"
+   ],
+   "description": "Een gerenommeerde filmmaker (Javier Bardem) cast z'n dochter (Victorua Luengo) voor een nieuw project, waardoor oude, onverwerkte spanningen naar boven komen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6985"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Studio/K",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/d15bda2f-59c0-4d91-976a-9a37d4f6b2ca"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d5a71794-f811-4ef2-b3e2-08dec473f15c-thebeloved?showId=5878a9fb-63f6-4f6e-b6fb-d7b011605192"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6977"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Studio/K",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/1958bf4b-16ab-49de-851e-dbe70fc00c73"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:50",
+     "weekday": "Tue",
+     "venue": "FC Hyena",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1317981"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:30",
+     "weekday": "Wed",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6986"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:30",
+     "weekday": "Wed",
+     "venue": "Studio/K",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/aec2fc55-3723-4f46-9c33-f8423ab43ce8"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:50",
+     "weekday": "Wed",
+     "venue": "FC Hyena",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1317992"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 20:45",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317167"
+    }
+   ]
+  },
+  {
+   "title": "The Birdcage",
+   "slug": "birdcage",
+   "year": 1996,
+   "directors": [
+    "Mike Nichols"
+   ],
+   "cast": [
+    "Gene Hackman",
+    "Nathan Lane",
+    "Robin Williams"
+   ],
+   "duration": 117,
+   "languages": [
+    "en"
+   ],
+   "description": "Robin Williams en Nathan Lane in de Amerikaanse remake van queer komedie La cage aux folles.",
+   "tags": [
+    "classic",
+    "noSubtitles"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic",
+      "noSubtitles"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197370"
+    }
+   ]
+  },
+  {
+   "title": "The Craft",
+   "slug": "the-craft",
+   "year": 1996,
+   "directors": [
+    "Andrew Fleming"
+   ],
+   "cast": [
+    "Robin Tunney",
+    "Fairuza Balk",
+    "Neve Campbell"
+   ],
+   "duration": 101,
+   "languages": [
+    "en"
+   ],
+   "description": "Vier vriendinnen experimenteren met hun magische krachten, totdat ze de controle verliezen.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 12:45",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319417"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 21:30",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315279"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:25",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1316558"
+    }
+   ]
+  },
+  {
+   "title": "The Cremator",
+   "slug": "the-cremator",
+   "year": 2023,
+   "directors": [
+    "Juraj Herz"
+   ],
+   "cast": [],
+   "duration": 97,
+   "languages": [
+    "cs"
+   ],
+   "description": "Een (ooit verboden) cultfilm die wordt beschouwd als één van de beste Tsjecho-Slowaakse producties ooit.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 19:00",
+     "weekday": "Sat",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1303802"
+    }
+   ]
+  },
+  {
+   "title": "The Cycle of Love",
+   "slug": "the-cycle-of-love",
+   "year": 2025,
+   "directors": [
+    "Orlando von Einsiedel"
+   ],
+   "cast": [],
+   "duration": 98,
+   "languages": [
+    "hi-IN",
+    "en-GB"
+   ],
+   "description": "Een liefdesverhaal zo onwaarschijnlijk romantisch, dat het nog steeds op Zweedse basisscholen wordt verteld.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204764"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205181"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:20",
+     "weekday": "Mon",
+     "venue": "Studio/K",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/e818424e-ef59-4ec6-9b91-2d9b0147286d"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204765"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205182"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:30",
+     "weekday": "Wed",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204766"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205253"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Rialto De Pijp",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/The-Cycle-of-Love-21-Oct-11927875?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:20",
+     "weekday": "Wed",
+     "venue": "Studio/K",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/48aa8b33-7810-4d2b-83d8-5a55b28a99f1"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 15:15",
+     "weekday": "Sat",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "The Dark Crystal",
+   "slug": "the-dark-crystal",
+   "year": 1992,
+   "directors": [],
+   "cast": [],
+   "duration": 93,
+   "languages": [
+    "en"
+   ],
+   "description": "Een fantastisch avontuur uit de studio van poppenspeler Jim Henson.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 16:50",
+     "weekday": "Sat",
+     "venue": "Studio/K",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://kassa.studio-k.nu/#/checkout/a10d3742-22b2-4ae4-a9b5-8f7efb058d71"
+    }
+   ]
+  },
+  {
+   "title": "The Discovery of Heaven (re-release)",
+   "slug": "discovery-heaven",
+   "year": 2001,
+   "directors": [
+    "Jeroen Krabbé"
+   ],
+   "cast": [
+    "Jeroen Krabbé",
+    "Stephen Fry",
+    "Viv Weatherall"
+   ],
+   "duration": 127,
+   "languages": [
+    "en"
+   ],
+   "description": "Internationale en groots opgezette verfilming van Harry Mulisch' gelijknamige roman over liefde, dood en noodlot.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-23",
+     "start": "2026-10-23 18:45",
+     "weekday": "Fri",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319306"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 16:00",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319307"
+    }
+   ]
+  },
+  {
+   "title": "The Drama",
+   "slug": "the-drama",
+   "year": 2026,
+   "directors": [
+    "Kristoffer Borgli"
+   ],
+   "cast": [
+    "Zendaya",
+    "Robert Pattinson",
+    "Alana Haim",
+    "Mamoudou Athie"
+   ],
+   "duration": 105,
+   "languages": [
+    "en"
+   ],
+   "description": "Met Zendaya en Robert Pattinson als verloofd stel bij wie het he-le-maal misgaat in aanloop naar de bruiloft.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 21:00",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317048"
+    }
+   ]
+  },
+  {
+   "title": "The English Patient",
+   "slug": "the-english-patient",
+   "year": null,
+   "directors": [],
+   "cast": [],
+   "duration": null,
+   "languages": [],
+   "description": "",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 15:00",
+     "weekday": "Sun",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197383"
+    }
+   ]
+  },
+  {
+   "title": "The Full Monty",
+   "slug": "the-full-monty",
+   "year": 1997,
+   "directors": [
+    "Peter Cattaneo"
+   ],
+   "cast": [
+    "Robert Carlyle",
+    "Mark Addy",
+    "William Snape"
+   ],
+   "duration": 91,
+   "languages": [
+    "en"
+   ],
+   "description": "Zes werkloze mannen proberen centjes bij te verdienen door een Chippendales(-achtige?) stripshow op te voeren.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 18:15",
+     "weekday": "Sun",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197385"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 18:15",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197386"
+    }
+   ]
+  },
+  {
+   "title": "The Great Dictator",
+   "slug": "great-dictator",
+   "year": 1940,
+   "directors": [
+    "Charles Chaplin"
+   ],
+   "cast": [
+    "Charles Chaplin",
+    "Jack Oakie",
+    "Reginald Gardiner"
+   ],
+   "duration": 124,
+   "languages": [
+    "en"
+   ],
+   "description": "Charles Chaplins satire over nazi-Duitsland, uitgebracht na het uitbreken van WOII.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 10:50",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317451"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 10:00",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317419"
+    }
+   ]
+  },
+  {
+   "title": "The Incomer",
+   "slug": "the-incomer",
+   "year": 2026,
+   "directors": [
+    "Louis Paxton"
+   ],
+   "cast": [
+    "Domhnall Gleeson",
+    "Gayle Rankin",
+    "Grant O’Rourke"
+   ],
+   "duration": 97,
+   "languages": [
+    "en-GB"
+   ],
+   "description": "De rust en vree op het Schotse eiland van broer Sandy en zus Isla wordt verstoord door een gemeenteambtenaar (Domnhall Gleeson), die ze van hun geboorteplek komt weghalen.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:30",
+     "weekday": "Wed",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 20:00",
+     "weekday": "Wed",
+     "venue": "De Omval Diemen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "The Lighthouse",
+   "slug": "the-lighthouse",
+   "year": 2019,
+   "directors": [
+    "Robert Eggers"
+   ],
+   "cast": [
+    "Willem Dafoe",
+    "Robert Pattinson",
+    "Valeriia Karaman"
+   ],
+   "duration": 109,
+   "languages": [
+    "en"
+   ],
+   "description": "Willem Dafoe vs. Robert Pattinson vs. zeemeerminnen en eenogige meeuwen in een hypnotiserend zeemannensprookje. Van de regisseur van The Witch.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 19:00",
+     "weekday": "Thu",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1313481"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:00",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1309184"
+    }
+   ]
+  },
+  {
+   "title": "The Odyssey",
+   "slug": "the-odyssey",
+   "year": 2026,
+   "directors": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Matt Damon",
+    "Anne Hathaway",
+    "Lupita Nyong'o",
+    "Zendaya"
+   ],
+   "duration": 173,
+   "languages": [
+    "en"
+   ],
+   "description": "Mega-regisseur Christopher Nolan verfilmt het mega-verhaal van Odysseus.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:30",
+     "weekday": "Wed",
+     "venue": "Cinema Amstelveen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": null
+    }
+   ]
+  },
+  {
+   "title": "The Social Reckoning",
+   "slug": "the-social-reckoning",
+   "year": 2026,
+   "directors": [
+    "Aaron Sorkin"
+   ],
+   "cast": [
+    "Jeremy Allen White",
+    "Mikey Madison",
+    "Jeremy Strong",
+    "Bill Burr"
+   ],
+   "duration": 113,
+   "languages": [
+    "en"
+   ],
+   "description": "Vervolg op The Social Network, met Jeremy Strong als Mark Zuckerberg en Mikey Madison en Jeremy Allen White als klokkenluiders tegen (Mr.) Facebook.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:10",
+     "weekday": "Mon",
+     "venue": "Kriterion",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1318292"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204861"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:45",
+     "weekday": "Mon",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6964"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:15",
+     "weekday": "Tue",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/6939"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204862"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:20",
+     "weekday": "Tue",
+     "venue": "Kriterion",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1317804"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "The Movies",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204863"
+    },
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:30",
+     "weekday": "Thu",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317173"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 18:30",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317175"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:15",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317401"
+    },
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 18:30",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317177"
+    },
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 18:30",
+     "weekday": "Wed",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317178"
+    }
+   ]
+  },
+  {
+   "title": "The Talented Mr. Ripley",
+   "slug": "talented-mr-ripley",
+   "year": 1999,
+   "directors": [
+    "Anthony Minghella"
+   ],
+   "cast": [
+    "Gwyneth Paltrow",
+    "Jude Law",
+    "Matt Damon"
+   ],
+   "duration": 139,
+   "languages": [
+    "en"
+   ],
+   "description": "Anthony Mingella (The English Patient) maakte een stijlvolle verfilming van het eerste boek van Patricia Highsmith over bedrieger Tom Ripley (Matt Damon).",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 21:15",
+     "weekday": "Sat",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197382"
+    }
+   ]
+  },
+  {
+   "title": "Toutes directions",
+   "slug": "toutes-directions",
+   "year": 2026,
+   "directors": [
+    "Noël Loozen"
+   ],
+   "cast": [
+    "Fred Goessens",
+    "Michiel Kerbosch",
+    "Erik de Jong",
+    "Dries Smits"
+   ],
+   "duration": 88,
+   "languages": [
+    "nl"
+   ],
+   "description": "De 71-jarige Limburgse taxichauffeur Sjef verliest zijn baan en neemt, voor het eerst in zijn leven, de verkeerde afslag.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:35",
+     "weekday": "Mon",
+     "venue": "Kriterion",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1317844"
+    }
+   ]
+  },
+  {
+   "title": "Trainspotting",
+   "slug": "trainspotting",
+   "year": 1996,
+   "directors": [
+    "Danny Boyle"
+   ],
+   "cast": [
+    "Ewan McGregor",
+    "Ewen Bremner",
+    "Jonny Lee Miller"
+   ],
+   "duration": 94,
+   "languages": [
+    "en"
+   ],
+   "description": "Een smerig, klassiek en tegen het plafond stuiterend portret van vijf verslaafden in Edinborough.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:55",
+     "weekday": "Mon",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1317272"
+    },
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 21:10",
+     "weekday": "Sat",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319630"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 12:40",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317388"
+    }
+   ]
+  },
+  {
+   "title": "Trois couleurs: Rouge",
+   "slug": "trois-couleurs-rouge",
+   "year": 1994,
+   "directors": [
+    "Krzysztof Kieslowski"
+   ],
+   "cast": [
+    "Irène Jacob",
+    "Jean-Louis Trintignant",
+    "Frédérique Feder",
+    "Jean-Pierre Lorit"
+   ],
+   "duration": 99,
+   "languages": [
+    "fr"
+   ],
+   "description": "Waarin het leven van een fotomodel botst met dat van een gepensioneerde rechter.",
+   "tags": [
+    "classic"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:15",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://filmhallen.nl/tickets/197363"
+    }
+   ]
+  },
+  {
+   "title": "Twilight",
+   "slug": "twilight-2008",
+   "year": 2008,
+   "directors": [
+    "Catherine Hardwicke"
+   ],
+   "cast": [
+    "Kristen Stewart",
+    "Robert Pattinson",
+    "Billy Burke"
+   ],
+   "duration": 122,
+   "languages": [
+    "en"
+   ],
+   "description": "Sexy vampiers, weerwolven, brandend verlangen, Kristen Stewart en Robert Pattinson. Oeh!",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 21:15",
+     "weekday": "Sat",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311431"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:30",
+     "weekday": "Sun",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315637"
+    },
+    {
+     "cinema_day": "2026-10-27",
+     "start": "2026-10-27 18:50",
+     "weekday": "Tue",
+     "venue": "LAB111",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315641"
+    }
+   ]
+  },
+  {
+   "title": "Under the Flags, the Sun",
+   "slug": "under-the-flags-the-sun",
+   "year": 2025,
+   "directors": [
+    "Juanjo Pereira"
+   ],
+   "cast": [],
+   "duration": 90,
+   "languages": [
+    "gn",
+    "es",
+    "de",
+    "en",
+    "pt"
+   ],
+   "description": "Docu over de propagandamachine rond de langstzittende dictator in de Zuid-Amerikaanse geschiedenis.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:00",
+     "weekday": "Tue",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839740?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839748?utm_source=Cineville&utm_campaign=ticketlink"
+    }
+   ]
+  },
+  {
+   "title": "Verhalen uit de magische tuin",
+   "slug": "verhalen-uit-de-magische-tuin",
+   "year": 2025,
+   "directors": [
+    "David Súkup",
+    "Patrik Pašš",
+    "Leon Vidmar",
+    "Jean-Claude Roze"
+   ],
+   "cast": [],
+   "duration": 71,
+   "languages": [
+    "nl"
+   ],
+   "description": "Stop-motionfilm waarin de jonge Suzanne na het verlies van haar oma de rol van verhalenverteller overneemt en het huis opnieuw vult met troost en fantasie.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-24",
+     "start": "2026-10-24 14:30",
+     "weekday": "Sat",
+     "venue": "Eye",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319426"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 15:15",
+     "weekday": "Sun",
+     "venue": "Eye",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319425"
+    }
+   ]
+  },
+  {
+   "title": "Wen er maar aan",
+   "slug": "wen-er-maar-aan",
+   "year": 2026,
+   "directors": [
+    "Albert-Jan van Rees"
+   ],
+   "cast": [
+    "Maike Meijer",
+    "Bas Hoeflaak",
+    "Bianca Krijgsman",
+    "Hadewych Minis"
+   ],
+   "duration": 104,
+   "languages": [
+    "nl"
+   ],
+   "description": "Naar Maike Meijers gelijknamige bestseller over de menopauze en al haar beruchte stigma's.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Het Ketelhuis",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1318088"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317706"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:35",
+     "weekday": "Mon",
+     "venue": "Cinecenter",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.cinecenter.nl/#/checkout/7543d264-192c-4bec-b237-8ec5efb67fac"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/a27fb95b-f777-48b3-5f62-08df1e57c0fb-wenermaaraan?showId=7a76dfe0-df45-44fb-ae48-39a075df0cea"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:35",
+     "weekday": "Tue",
+     "venue": "Cinecenter",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.cinecenter.nl/#/checkout/a02a4784-4677-447d-a8c8-b41c56dd3991"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/a27fb95b-f777-48b3-5f62-08df1e57c0fb-wenermaaraan?showId=145b8b7b-ea47-41ea-aa64-6cef9a74712c"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:35",
+     "weekday": "Wed",
+     "venue": "Cinecenter",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.cinecenter.nl/#/checkout/a6f01452-86cf-436d-ab31-5e8917644567"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Cinema De Vlugt",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317825"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/a27fb95b-f777-48b3-5f62-08df1e57c0fb-wenermaaraan?showId=76bc3033-8c3e-4c36-a3c4-941ea6bc27cf"
+    }
+   ]
+  },
+  {
+   "title": "Whisper of the Heart",
+   "slug": "whisper-heart",
+   "year": 1995,
+   "directors": [
+    "Yoshifumi Kondo"
+   ],
+   "cast": [],
+   "duration": 112,
+   "languages": [
+    "ja"
+   ],
+   "description": "Gerestaureerde Ghibli-klassieker over uit 1995, over de dromerige Shizuku, die een bijzondere kat ontmoet en in contact komt met de jongen die dezelfde boeken las als zij.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 14:40",
+     "weekday": "Sun",
+     "venue": "De Uitkijk",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1319639"
+    }
+   ]
+  },
+  {
+   "title": "Wicker",
+   "slug": "wicker",
+   "year": 2026,
+   "directors": [
+    "Alex Huston Fischer",
+    "Eleanor Wilson"
+   ],
+   "cast": [
+    "Olivia Colman",
+    "Alexander Skarsgård",
+    "Peter Dinklage"
+   ],
+   "duration": 105,
+   "languages": [
+    "en-GB"
+   ],
+   "description": "Met Alexander Skarsgård als de perfecte man(d).",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-22",
+     "start": "2026-10-22 18:45",
+     "weekday": "Thu",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b621f3ca-8927-4017-11f4-08df1f1cc83a-wicker?showId=ef4aca52-ba89-44e4-8381-7cc60b414ffb"
+    },
+    {
+     "cinema_day": "2026-10-25",
+     "start": "2026-10-25 13:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b621f3ca-8927-4017-11f4-08df1f1cc83a-wicker?showId=64e05ec2-ab0e-4843-b624-4ac5e44e86a6"
+    }
+   ]
+  },
+  {
+   "title": "Yellow Letters",
+   "slug": "yellow-letters",
+   "year": 2025,
+   "directors": [
+    "Ilker Çatak"
+   ],
+   "cast": [
+    "Özgü Namal",
+    "Tansu Biçer",
+    "Leyla Smyrna Cabas"
+   ],
+   "duration": 127,
+   "languages": [
+    "tr"
+   ],
+   "description": "Een Turks kunstenaarskoppel vecht voor hun idealen, gezin en waardigheid nadat ze worden ontslagen door de overheid.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:20",
+     "weekday": "Mon",
+     "venue": "Cinecenter",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.cinecenter.nl/#/checkout/86a911e8-0531-4356-8a57-e7e8e2ddf2ae"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:30",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205348"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:30",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205349"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Rialto De Pijp",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Yellow-Letters--20-Oct-11927857?utm_source=Cineville&utm_campaign=ticketlink"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:00",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/40a41f21-290b-4a29-b3dc-08dec473f15c-yellowletters?showId=5a5149de-71f5-4c9c-8bee-d6f6bb9c694c"
+    }
+   ]
+  },
+  {
+   "title": "Youri",
+   "slug": "youri",
+   "year": 2026,
+   "directors": [
+    "Sander Burger"
+   ],
+   "cast": [
+    "Joes Brauers",
+    "Levan Gelbakhiani",
+    "Julia Akkerman",
+    "Rick Paul van Mulligen"
+   ],
+   "duration": 110,
+   "languages": [
+    "nl",
+    "en"
+   ],
+   "description": "Gebaseerd op de roman van Jan Brokken, over de vriendschap tussen een Amsterdamse journalist (Joes Brauers) en een Sovjet-pianist (Levan Gelbakhiani).",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:40",
+     "weekday": "Mon",
+     "venue": "The Movies",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204826"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Het Ketelhuis",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1318101"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 18:45",
+     "weekday": "Mon",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205279"
+    },
+    {
+     "cinema_day": "2026-10-19",
+     "start": "2026-10-19 19:00",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/371492da-8bef-4fec-9b1d-08df0cdc6c59-youri?showId=9acbda6c-5945-478d-af34-825dafafb70e"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:25",
+     "weekday": "Tue",
+     "venue": "Cinecenter",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.cinecenter.nl/#/checkout/209fdd30-f8c8-4821-b55c-bb43963523bb"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:40",
+     "weekday": "Tue",
+     "venue": "The Movies",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204827"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 18:45",
+     "weekday": "Tue",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205280"
+    },
+    {
+     "cinema_day": "2026-10-20",
+     "start": "2026-10-20 19:00",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/371492da-8bef-4fec-9b1d-08df0cdc6c59-youri?showId=14a53b75-1d25-42a6-b503-0d82b94ccf96"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:25",
+     "weekday": "Wed",
+     "venue": "Cinecenter",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://kassa.cinecenter.nl/#/checkout/f7b63efc-0b6b-4091-ad38-029dc6ab4ceb"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:40",
+     "weekday": "Wed",
+     "venue": "The Movies",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://themovies.nl/tickets/204828"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 18:45",
+     "weekday": "Wed",
+     "venue": "Filmhallen",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://filmhallen.nl/tickets/205281"
+    },
+    {
+     "cinema_day": "2026-10-21",
+     "start": "2026-10-21 19:15",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/371492da-8bef-4fec-9b1d-08df0cdc6c59-youri?showId=4cc20457-6716-455e-85e4-7a4e0ed09b1b"
+    }
+   ]
+  }
+ ]
+}
