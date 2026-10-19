@@ -1,4 +1,4 @@
-"""Fetch the Cineville Amsterdam programme for the next 10 days.
+"""Fetch the CV Amsterdam programme for the next 10 days.
 
 Weekdays: only screenings starting 18:00-20:00 (Amsterdam time).
 Saturday/Sunday: all screenings of that cinema day (04:00 to 04:00).
@@ -10,6 +10,7 @@ import json
 import re
 import sys
 import urllib.request
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 from datetime import date, datetime, time, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -74,6 +75,15 @@ def clean(text, limit=400):
     return text[:limit]
 
 
+def strip_tracking(url):
+    """Drop utm_* tracking parameters from a ticket link."""
+    if not url:
+        return url
+    parts = urlsplit(url)
+    query = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True) if not k.lower().startswith("utm_")]
+    return urlunsplit(parts._replace(query=urlencode(query)))
+
+
 def summarise(events_by_day):
     films = {}
     for day, events in events_by_day.items():
@@ -105,7 +115,7 @@ def summarise(events_by_day):
                 "venue": v.get("name"),
                 "subtitles": (e.get("attributes") or {}).get("subtitles") or [],
                 "tags": tags,
-                "tickets": e.get("ticketingUrl"),
+                "tickets": strip_tracking(e.get("ticketingUrl")),
             })
     out = []
     for f in films.values():

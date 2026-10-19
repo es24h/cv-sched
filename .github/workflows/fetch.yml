@@ -1,4 +1,4 @@
-name: Fetch Cineville programme
+name: Fetch CV programme
 
 on:
   schedule:
