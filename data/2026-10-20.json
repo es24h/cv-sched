@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T06:53:32+02:00",
+ "generated_at": "2026-10-20T10:39:39+02:00",
  "city": "amsterdam",
  "from": "2026-10-20",
  "to": "2026-10-29",
@@ -9,14 +9,14 @@
   "2026-10-21": 50,
   "2026-10-22": 54,
   "2026-10-23": 52,
-  "2026-10-24": 266,
-  "2026-10-25": 264,
-  "2026-10-26": 50,
+  "2026-10-24": 267,
+  "2026-10-25": 265,
+  "2026-10-26": 51,
   "2026-10-27": 56,
-  "2026-10-28": 55,
+  "2026-10-28": 56,
   "2026-10-29": 12
  },
- "film_count": 153,
+ "film_count": 154,
  "films": [
   {
    "title": "A Geisha's Diary",
@@ -2701,30 +2701,6 @@
    ]
   },
   {
-   "title": "Du fioul dans les artères",
-   "slug": "du-fioul-dans-les-arteres",
-   "year": null,
-   "directors": [],
-   "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
-   "screenings": [
-    {
-     "cinema_day": "2026-10-29",
-     "start": "2026-10-29 18:30",
-     "weekday": "Thu",
-     "venue": "Het Ketelhuis",
-     "subtitles": [
-      "en"
-     ],
-     "tags": [],
-     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1316655"
-    }
-   ]
-  },
-  {
    "title": "Erupcja",
    "slug": "erupcja",
    "year": 2025,
@@ -3104,6 +3080,38 @@
       "classic"
      ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1313676"
+    }
+   ]
+  },
+  {
+   "title": "Flesh and Fuel",
+   "slug": "flesh-and-fuel",
+   "year": 2026,
+   "directors": [
+    "Pierre le Gall"
+   ],
+   "cast": [
+    "Alexis Manenti",
+    "Julian Swiezewski",
+    "Mohamed Makhtoumi"
+   ],
+   "duration": 90,
+   "languages": [
+    "fr"
+   ],
+   "description": "Een eenzame Franse trucker ontmoet een Poolse collega op de snelweg en probeert zijn strakke ritten te combineren met de liefde.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-29",
+     "start": "2026-10-29 18:30",
+     "weekday": "Thu",
+     "venue": "Het Ketelhuis",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1316655"
     }
    ]
   },
@@ -4561,22 +4569,47 @@
    ]
   },
   {
-   "title": "Love",
-   "slug": "love-2025",
-   "year": 2025,
+   "title": "Lola Film Festival",
+   "slug": "lola-film-festival",
+   "year": 2026,
    "directors": [
-    "Dag Johan Haugerud"
+    "Various"
+   ],
+   "cast": [],
+   "duration": 135,
+   "languages": [],
+   "description": "Queer en feministische korte films, van fictie tot experimentele film.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-10-28",
+     "start": "2026-10-28 19:00",
+     "weekday": "Wed",
+     "venue": "Kriterion",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1319084"
+    }
+   ]
+  },
+  {
+   "title": "Love (1971)",
+   "slug": "love-1971",
+   "year": 1971,
+   "directors": [
+    "Károly Makk"
    ],
    "cast": [
-    "Tayo Cittadella",
-    "Andrea Bræin Hovig",
-    "Thomas Gullestad"
+    "Lili Darvas",
+    "Mari Törőcsik",
+    "Iván Darvas",
+    ""
    ],
-   "duration": 120,
+   "duration": 89,
    "languages": [
-    "no"
+    "hu"
    ],
-   "description": "De tweede film uit de Sex, Love, Dreams-trilogie van regisseur Dag Johan Haugerud, over verschillende (liefdes)verhalen in Oslo.",
+   "description": "Hongarije, 1953, drie jaar voor de opstand. Twee vrouwen – de moeder en de echtgenote - wachten op de terugkeer van politieke gevangene János.",
    "tags": [],
    "screenings": [
     {
@@ -11772,6 +11805,17 @@
     },
     {
      "cinema_day": "2026-10-24",
+     "start": "2026-10-24 13:45",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8194c841-d17d-4520-daad-08df2dc1b370-wildwood?showId=daaf97b7-38e1-4ef2-a9be-33a3652a4669"
+    },
+    {
+     "cinema_day": "2026-10-24",
      "start": "2026-10-24 14:10",
      "weekday": "Sat",
      "venue": "FC Hyena",
@@ -11810,12 +11854,34 @@
     },
     {
      "cinema_day": "2026-10-25",
+     "start": "2026-10-25 16:15",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8194c841-d17d-4520-daad-08df2dc1b370-wildwood?showId=9ead2e79-c8d5-48a8-b156-d462bf4d0706"
+    },
+    {
+     "cinema_day": "2026-10-25",
      "start": "2026-10-25 16:35",
      "weekday": "Sun",
      "venue": "Studio/K",
      "subtitles": [],
      "tags": [],
      "tickets": "https://kassa.studio-k.nu/#/checkout/ae28c226-68df-41d3-95be-807b3c1b9525"
+    },
+    {
+     "cinema_day": "2026-10-26",
+     "start": "2026-10-26 18:45",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8194c841-d17d-4520-daad-08df2dc1b370-wildwood?showId=451baad8-525e-4318-b09c-5b3f8ddc1ef3"
     }
    ]
   },
