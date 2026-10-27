@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T06:53:36+01:00",
+ "generated_at": "2026-10-27T10:07:03+01:00",
  "city": "amsterdam",
  "from": "2026-10-27",
  "to": "2026-11-05",
@@ -13,7 +13,7 @@
   "2026-11-01": 246,
   "2026-11-02": 56,
   "2026-11-03": 54,
-  "2026-11-04": 55,
+  "2026-11-04": 56,
   "2026-11-05": 11
  },
  "film_count": 230,
@@ -57,7 +57,9 @@
     "en"
    ],
    "description": "Het indrukwekkende debuut van regisseur Sidney Lumet.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-01",
@@ -65,7 +67,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1320084"
     }
    ]
@@ -203,7 +207,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322160"
     },
     {
@@ -1730,23 +1736,23 @@
      "cinema_day": "2026-10-30",
      "start": "2026-10-30 18:45",
      "weekday": "Fri",
-     "venue": "Rialto VU Griffioen",
-     "subtitles": [
-      "en"
-     ],
-     "tags": [],
-     "tickets": "https://griffioen.vu.nl/bestel/7129"
-    },
-    {
-     "cinema_day": "2026-10-30",
-     "start": "2026-10-30 18:45",
-     "weekday": "Fri",
      "venue": "Cinema The Pulse",
      "subtitles": [
       "nl"
      ],
      "tags": [],
      "tickets": "https://cinemathepulse.com/films/309d4c66-cc0f-48ea-11f6-08df1f1cc83a-coward?showId=934d14fa-6881-4ca3-b698-6fcfbe5df691"
+    },
+    {
+     "cinema_day": "2026-10-30",
+     "start": "2026-10-30 18:50",
+     "weekday": "Fri",
+     "venue": "Rialto VU Griffioen",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://griffioen.vu.nl/bestel/7129"
     },
     {
      "cinema_day": "2026-10-30",
@@ -4237,7 +4243,9 @@
     "en"
    ],
    "description": "Kerstklassieker waarin een groep monsterlijke wezentjes op komische wijze gehakt maakt van de feestvreugde.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-10-30",
@@ -4245,7 +4253,9 @@
      "weekday": "Fri",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1317134"
     },
     {
@@ -4254,7 +4264,9 @@
      "weekday": "Sat",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1316982"
     }
    ]
@@ -5381,9 +5393,7 @@
     "ja"
    ],
    "description": "Over de periode waarin Yayoi Kusama haar artistieke thuis vond in de Nederlandse polder.",
-   "tags": [
-    "special"
-   ],
+   "tags": [],
    "screenings": [
     {
      "cinema_day": "2026-10-29",
@@ -5393,9 +5403,7 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [
-      "special"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1305488"
     }
    ]
@@ -5995,22 +6003,14 @@
    ]
   },
   {
-   "title": "Love",
-   "slug": "love-2025",
-   "year": 2025,
-   "directors": [
-    "Dag Johan Haugerud"
-   ],
-   "cast": [
-    "Tayo Cittadella",
-    "Andrea Bræin Hovig",
-    "Thomas Gullestad"
-   ],
-   "duration": 120,
-   "languages": [
-    "no"
-   ],
-   "description": "De tweede film uit de Sex, Love, Dreams-trilogie van regisseur Dag Johan Haugerud, over verschillende (liefdes)verhalen in Oslo.",
+   "title": "Love (1971)",
+   "slug": "love-1971",
+   "year": null,
+   "directors": [],
+   "cast": [],
+   "duration": null,
+   "languages": [],
+   "description": "",
    "tags": [],
    "screenings": [
     {
@@ -6096,7 +6096,9 @@
     "it"
    ],
    "description": "Pasolini's sublieme blik op alledaags Romeins leven, met Anna Magnani in de hoofdrol.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-01",
@@ -6106,7 +6108,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1321456"
     }
    ]
@@ -7666,7 +7670,9 @@
     "en"
    ],
    "description": "Marlon Brando schittert als Terry Malloy, ex-bokser en dokwerker. Zonder het te beseffen wordt hij betrokken bij een moord.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-10-29",
@@ -7674,7 +7680,9 @@
      "weekday": "Thu",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1318252"
     }
    ]
@@ -7857,7 +7865,9 @@
     "en"
    ],
    "description": "Een onvergetelijke roadmovie waarin Wim Wenders Europees sentiment versmelt met Amerikaanse grandeur.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-01",
@@ -7865,7 +7875,9 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Paris-Texas-1-Nov-11928249"
     }
    ]
@@ -9645,7 +9657,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1321421"
     },
     {
@@ -9909,7 +9923,9 @@
     "en"
    ],
    "description": "Een spetterende klassieker in overdadige Technicolor.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-10-31",
@@ -9919,7 +9935,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1317012"
     }
    ]
@@ -10150,9 +10168,7 @@
     "ja-JP"
    ],
    "description": "Volgt een ingehuurde minnares en een boeddhistische monnik die naar elkaar toegroeien door hun gedeelde arme jeugd.",
-   "tags": [
-    "special"
-   ],
+   "tags": [],
    "screenings": [
     {
      "cinema_day": "2026-11-02",
@@ -10162,9 +10178,7 @@
      "subtitles": [
       "en"
      ],
-     "tags": [
-      "special"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311262"
     }
    ]
@@ -10651,7 +10665,9 @@
     "en"
    ],
    "description": "Vier vriendinnen experimenteren met hun magische krachten, totdat ze de controle verliezen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-10-31",
@@ -10661,7 +10677,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1315366"
     }
    ]
@@ -11098,8 +11116,7 @@
    ],
    "description": "Ken Russells cult-klassieker over een priester met een rijkelijk seksleven en een groep behekste nonnen.",
    "tags": [
-    "classic",
-    "special"
+    "classic"
    ],
    "screenings": [
     {
@@ -11122,7 +11139,6 @@
       "nl"
      ],
      "tags": [
-      "special",
       "classic"
      ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1313404"
@@ -11751,9 +11767,7 @@
     "ja-JP"
    ],
    "description": "Burleske komedie van regisseur Yuzo Kawashima die zich afspeelt rond een een bordeel in 1862, een tijd van enorme sociale en politieke onrust.",
-   "tags": [
-    "special"
-   ],
+   "tags": [],
    "screenings": [
     {
      "cinema_day": "2026-10-29",
@@ -11763,9 +11777,7 @@
      "subtitles": [
       "en"
      ],
-     "tags": [
-      "special"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311265"
     }
    ]
@@ -11809,7 +11821,9 @@
      "weekday": "Thu",
      "venue": "FC Hyena",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1321382"
     },
     {
@@ -11833,7 +11847,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7156"
     },
     {
@@ -11855,7 +11871,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://cinemathepulse.com/films/6859f36c-9c41-4a99-11fa-08df1f1cc83a-thetexaschainsawmassacre50thanniversary?showId=d835f48a-da4f-4bfe-9f8a-df762474b3d3"
     },
     {
@@ -11892,7 +11910,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7148"
     },
     {
@@ -11903,7 +11923,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://cinemathepulse.com/films/6859f36c-9c41-4a99-11fa-08df1f1cc83a-thetexaschainsawmassacre50thanniversary?showId=29840483-42fb-4efa-aff9-fbc4a11b6504"
     },
     {
@@ -11914,7 +11936,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7158"
     }
    ]
@@ -13436,6 +13460,17 @@
       "preview"
      ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/54672a3b-f5fb-4436-862a-67326ecf056f"
+    },
+    {
+     "cinema_day": "2026-11-04",
+     "start": "2026-11-04 19:45",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/9bbe06d9-c190-4f6d-2b5f-08df31ec8724-wildhorseninevoorpremire?showId=aa2f1b48-457a-4ea7-92b7-29061d508b81"
     },
     {
      "cinema_day": "2026-11-05",
