@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T06:54:02+01:00",
+ "generated_at": "2026-11-03T11:58:53+01:00",
  "city": "amsterdam",
  "from": "2026-11-03",
  "to": "2026-11-12",
@@ -35,7 +35,9 @@
     "en"
    ],
    "description": "Het indrukwekkende debuut van regisseur Sidney Lumet.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-07",
@@ -43,7 +45,9 @@
      "weekday": "Sat",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1323242"
     }
    ]
@@ -61,7 +65,9 @@
     "ja-JP"
    ],
    "description": "Een geisha in Tokio wil aanvankelijk haar klanten behagen. Langzaamaan merkt ze een subtiele emotionele verschuiving bij zichzelf en vraagt ​​ze zich af wat ze uit het leven wil halen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -71,7 +77,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311249"
     }
    ]
@@ -1586,37 +1594,6 @@
    ]
   },
   {
-   "title": "Beauty and the Beast",
-   "slug": "beauty-and-the-beast-2017",
-   "year": 2017,
-   "directors": [
-    "Bill Condon"
-   ],
-   "cast": [
-    "Luke Evans",
-    "Emma Watson"
-   ],
-   "duration": 129,
-   "languages": [
-    "en"
-   ],
-   "description": "Disney's Belle en het Beest komt weer tot leven.",
-   "tags": [],
-   "screenings": [
-    {
-     "cinema_day": "2026-11-07",
-     "start": "2026-11-07 19:00",
-     "weekday": "Sat",
-     "venue": "Kriterion",
-     "subtitles": [
-      "en"
-     ],
-     "tags": [],
-     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1323697"
-    }
-   ]
-  },
-  {
    "title": "Being John Malkovich",
    "slug": "being-john-malkovich",
    "year": 1999,
@@ -1649,6 +1626,33 @@
       "noSubtitles"
      ],
      "tickets": "https://filmhallen.nl/tickets/197396"
+    }
+   ]
+  },
+  {
+   "title": "Belle en het Beest",
+   "slug": "belle-en-het-beest_1",
+   "year": 1991,
+   "directors": [
+    "Gary Trousdale",
+    "Kirk Wise"
+   ],
+   "cast": [],
+   "duration": 84,
+   "languages": [],
+   "description": "Kom erbij, kom erbij, zet je zorgen maar opzij.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-11-07",
+     "start": "2026-11-07 19:00",
+     "weekday": "Sat",
+     "venue": "Kriterion",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1323697"
     }
    ]
   },
@@ -1756,7 +1760,9 @@
    "duration": 110,
    "languages": [],
    "description": "Herman Brood slentert door het Amsterdam van de jaren zeventig.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-05",
@@ -1766,14 +1772,16 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311502"
     }
    ]
   },
   {
-   "title": "Challenging Food Narratives: About Our Journey & I'MPOSSIBLE",
-   "slug": "challenging-food-narratives-about-our-journey-impossible",
+   "title": "Challenging Food Narratives",
+   "slug": "challenging-food-narratives",
    "year": 2026,
    "directors": [
     "Leon Cronie",
@@ -1782,8 +1790,10 @@
    "cast": [],
    "duration": 90,
    "languages": [],
-   "description": "Twee etnografische films over ongelijkheid en voedselconsumptie.",
-   "tags": [],
+   "description": "Twee etnografische films. Een over koffieboeren in het globale zuiden, en een over arbeidsmigranten in de glastuinbouw in Spanje.",
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-11",
@@ -1791,7 +1801,9 @@
      "weekday": "Wed",
      "venue": "Studio/K",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kassa.studio-k.nu/#/checkout/44ecf6ff-a7d5-41bc-bd5d-38c821a5008a"
     }
    ]
@@ -1814,7 +1826,9 @@
     "pt"
    ],
    "description": "Gewelddadig en flitsend gefilmd epos over het harde leven in de sloppenwijken van Rio de Janeiro.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -1822,7 +1836,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1323256"
     }
    ]
@@ -2587,7 +2603,9 @@
     "ja-JP"
    ],
    "description": "Horrorfilm van Kiyoshi Kurosawa, over een detective die mysterieuze moorden onderzoekt waarbij de daders niets kunnen herinneren.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-07",
@@ -2597,7 +2615,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://filmhallen.nl/tickets/202383"
     }
    ]
@@ -3036,7 +3056,7 @@
    "cast": [],
    "duration": 115,
    "languages": [],
-   "description": "Een tenenkrommende afdaling in de diepste krochten van foute films.",
+   "description": "Een tenenkrommende afdaling in de diepste krochten van genrefilms door 'Mr. Horror' Jan Doense.",
    "tags": [
     "special"
    ],
@@ -3071,7 +3091,9 @@
     "ru"
    ],
    "description": "Andrej Tarkovski blikt terug op zijn jeugd in de Tweede Wereldoorlog.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-11",
@@ -3081,7 +3103,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319263"
     }
    ]
@@ -3132,7 +3156,9 @@
     "hu"
    ],
    "description": "Autobiografische film van Márta Mészáros (1931, Boedapest) over leven onder het dictatoriale Sovjet-regime.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -3142,7 +3168,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1309199"
     }
    ]
@@ -3327,7 +3355,9 @@
     "en"
    ],
    "description": "Meesterwerk van regisseur Billy Wilder rond een verzekeringsagent, zijn femme fatale en hun moordplan.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -3337,7 +3367,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1316992"
     }
    ]
@@ -3822,7 +3854,9 @@
     "de"
    ],
    "description": "Twee documentaires waarin ‘de gewone man’ aan het woord komt. Maar is die gewone Oostenrijker wel zo gewoon?",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -3832,7 +3866,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303648"
     }
    ]
@@ -3845,7 +3881,9 @@
     "Rafael Manuel"
    ],
    "cast": [
-    "[object Object]"
+    "Jorrybell Agoto",
+    "Carmen Castellanos",
+    "Teroy Guzman"
    ],
    "duration": 100,
    "languages": [
@@ -3853,7 +3891,9 @@
     "en"
    ],
    "description": "Een jonge medewerkster van een exclusieve golfclub ontdekt verontrustende waarheden over haar land en haar eigen verleden.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -3863,7 +3903,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322602"
     }
    ]
@@ -4599,7 +4641,9 @@
     "id"
    ],
    "description": "Ex-vechtsportster Mega en haar jongere broertje Bilal nemen het op tegen een netwerk criminelen.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-06",
@@ -4609,7 +4653,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://filmhallen.nl/tickets/202375"
     }
    ]
@@ -4682,7 +4728,9 @@
     "de"
    ],
    "description": "Portret van de Weense Pauli en de Oekraïense Olga, twee authentieke have nots.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-07",
@@ -4692,7 +4740,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1317052"
     }
    ]
@@ -4711,7 +4761,9 @@
    "duration": 98,
    "languages": [],
    "description": "Een meesterlijke liefdeswals van regisseur Wong Kar-wai.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-09",
@@ -4719,7 +4771,9 @@
      "weekday": "Mon",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1323240"
     }
    ]
@@ -5111,7 +5165,9 @@
     "fr"
    ],
    "description": "Een man vermoedt dat zijn vrouw een affaire heeft en huurt een privédetective in.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-09",
@@ -5121,7 +5177,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311505"
     }
    ]
@@ -5246,7 +5304,9 @@
     "en"
    ],
    "description": "Zwarte komedie van de Koning van de B-film over een plant in een bloemenwinkel die leeft van menselijk bloed.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-07",
@@ -5254,7 +5314,9 @@
      "weekday": "Sat",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1320264"
     }
    ]
@@ -5640,7 +5702,9 @@
     "en"
    ],
    "description": "In een afgelegen paleisje traint martial-arts vechtster Sarah drie jonge zussen. Maar waarom eigenlijk?",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-10",
@@ -5650,7 +5714,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1305350"
     }
    ]
@@ -6684,7 +6750,9 @@
      "weekday": "Fri",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322607"
     },
     {
@@ -6808,7 +6876,9 @@
     "en"
    ],
    "description": "Marlon Brando schittert als Terry Malloy, ex-bokser en dokwerker. Zonder het te beseffen wordt hij betrokken bij een moord.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-07",
@@ -6816,7 +6886,9 @@
      "weekday": "Sat",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319694"
     },
     {
@@ -6825,7 +6897,9 @@
      "weekday": "Sat",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322565"
     },
     {
@@ -6834,7 +6908,9 @@
      "weekday": "Sun",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321411"
     },
     {
@@ -6843,7 +6919,9 @@
      "weekday": "Mon",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319655"
     },
     {
@@ -6852,7 +6930,9 @@
      "weekday": "Tue",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322566"
     }
    ]
@@ -7813,7 +7893,9 @@
     "en"
    ],
    "description": "Die douche-scène. Brrr.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-11",
@@ -7821,7 +7903,9 @@
      "weekday": "Wed",
      "venue": "Rialto VU Griffioen",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7013"
     }
    ]
@@ -8546,7 +8630,9 @@
      "weekday": "Sat",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1323262"
     },
     {
@@ -8581,7 +8667,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1323247"
     },
     {
@@ -8772,7 +8860,9 @@
     "en"
    ],
    "description": "Een romantische coming of age-film vol hits uit de jaren 80.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-07",
@@ -8780,7 +8870,9 @@
      "weekday": "Sat",
      "venue": "Melkweg Cinema",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": null
     }
    ]
@@ -8836,7 +8928,9 @@
     "en"
    ],
    "description": "Filmmaker, rapper, kunstenaar en activist Boots Riley zet de logica op z’n kop.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -8846,7 +8940,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319676"
     }
    ]
@@ -8945,7 +9041,9 @@
     "ja-JP"
    ],
    "description": "Het verhaal van een jong stel dat in de marge leeft in de naoorlogse Japanse samenleving, en moet zien te overleven in de rosse buurt.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-11",
@@ -8955,7 +9053,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311256"
     }
    ]
@@ -9046,7 +9146,9 @@
     "en"
    ],
    "description": "De nieuwe film van Martin McDonagh (In Bruges, Three Billboards).",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-10",
@@ -9056,7 +9158,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317542"
     }
    ]
@@ -9358,7 +9462,9 @@
     "en"
    ],
    "description": "Met dit onvermoede meesterwerk zetten de Coens bowlen, action painting en B-porno in een geheel nieuw daglicht.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-05",
@@ -9368,7 +9474,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://filmhallen.nl/tickets/206700"
     },
     {
@@ -9379,7 +9487,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://filmhallen.nl/tickets/206701"
     }
    ]
@@ -10003,18 +10113,18 @@
   {
    "title": "The Last of the Mohicans",
    "slug": "last-mohicans",
-   "year": 112,
+   "year": 1992,
    "directors": [
     "Michael Mann"
    ],
    "cast": [
     "Daniel Day-Lewis"
    ],
-   "duration": 1992,
+   "duration": 112,
    "languages": [
     "en"
    ],
-   "description": "Over de gedoemde liefde tussen een Europeaan (Daniel Day-Lewis) die is opgevoed door de Chingachgook-stam, en de dochter van een Britse kolonist",
+   "description": "Over de gedoemde liefde tussen een Europeaan (Daniel Day-Lewis) die is opgevoed door de Chingachgook-stam, en de dochter van een Britse kolonist.",
    "tags": [
     "classic"
    ],
@@ -10255,7 +10365,9 @@
     "en"
    ],
    "description": "Een modern en duister sprookje over een dorpje dat een tragedie voor zijn kiezen krijgt en de advocaat (Ian Holm) die hen probeert te helpen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -10263,7 +10375,9 @@
      "weekday": "Sun",
      "venue": "The Movies",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/198198"
     }
    ]
@@ -10311,7 +10425,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7221"
     }
    ]
@@ -10434,7 +10550,9 @@
     "en"
    ],
    "description": "Van schrijver/regisseur Martin McDonagh (In Bruges). Met Frances McDormand als moeder die het gevecht aangaat met de plaatselijke politie.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-09",
@@ -10444,7 +10562,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1317541"
     },
     {
@@ -10455,7 +10575,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319439"
     }
    ]
@@ -10517,7 +10639,9 @@
     "en"
    ],
    "description": "Een smerig, klassiek en tegen het plafond stuiterend portret van vijf verslaafden in Edinborough.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-08",
@@ -10525,7 +10649,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1323254"
     }
    ]
@@ -12919,7 +13045,7 @@
     "Travis Knight"
    ],
    "cast": [],
-   "duration": 0,
+   "duration": 130,
    "languages": [
     "en"
    ],
@@ -13142,7 +13268,9 @@
     "en"
    ],
    "description": "Het moderne leven in een notendop.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-10",
@@ -13152,7 +13280,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319434"
     }
    ]
