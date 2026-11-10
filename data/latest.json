@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:54:01+01:00",
+ "generated_at": "2026-11-10T12:21:22+01:00",
  "city": "amsterdam",
  "from": "2026-11-10",
  "to": "2026-11-19",
@@ -10,10 +10,10 @@
   "2026-11-12": 57,
   "2026-11-13": 53,
   "2026-11-14": 256,
-  "2026-11-15": 235,
+  "2026-11-15": 236,
   "2026-11-16": 48,
   "2026-11-17": 51,
-  "2026-11-18": 48,
+  "2026-11-18": 49,
   "2026-11-19": 7
  },
  "film_count": 124,
@@ -34,7 +34,9 @@
     "en"
    ],
    "description": "De legendarische tijdruimtetrip van grootmeester Stanley Kubrick. \"To infinity, and beyond!\" 👀",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -44,7 +46,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325133"
     }
    ]
@@ -66,7 +70,9 @@
     "en"
    ],
    "description": "Nadat een man vroegtijdig de aarde heeft moeten verlaten, keert hij als spook terug naar zijn voormalige huis.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -76,7 +82,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1324869"
     }
    ]
@@ -97,7 +105,9 @@
     "en"
    ],
    "description": "Sophie blikt terug op een luie vakantie met haar vader, en de dingen die ze als puber niet zag.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-13",
@@ -107,7 +117,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319277"
     }
    ]
@@ -125,7 +137,9 @@
     "ja"
    ],
    "description": "Katsuhiro Otomo bewerkte zijn eigen populaire mangareeks tot de iconische animatiefilm Akira, die begin jaren negentig de westerse sluizen opende voor Japanse anime.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -135,7 +149,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326078"
     }
    ]
@@ -1013,7 +1029,9 @@
    "duration": 110,
    "languages": [],
    "description": "Elke derde dinsdag van de maand een verrassingsfilm die je aan je vrienden zou aanraden, of beter: die je samen kijkt.",
-   "tags": [],
+   "tags": [
+    "preview"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-17",
@@ -1021,7 +1039,9 @@
      "weekday": "Tue",
      "venue": "FC Hyena",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1325975"
     }
    ]
@@ -1222,7 +1242,9 @@
    "duration": 88,
    "languages": [],
    "description": "Voorloper van de nouvelle vague, met legendarische soundtrack van Miles Davis.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -1232,7 +1254,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1312517"
     }
    ]
@@ -1289,7 +1313,9 @@
     "en"
    ],
    "description": "Een actrice begint zich steeds minder op haar gemak te voelen op de set van een smakeloze horrorfilm.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-18",
@@ -1297,7 +1323,9 @@
      "weekday": "Wed",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321476"
     }
    ]
@@ -1728,7 +1756,9 @@
      "start": "2026-11-14 21:30",
      "weekday": "Sat",
      "venue": "Eye",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326092"
     },
@@ -1992,7 +2022,9 @@
      "start": "2026-11-15 21:30",
      "weekday": "Sun",
      "venue": "Eye",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326100"
     },
@@ -2023,7 +2055,9 @@
      "start": "2026-11-16 18:30",
      "weekday": "Mon",
      "venue": "Eye",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326091"
     },
@@ -2197,7 +2231,9 @@
     "fr"
    ],
    "description": "Twee uur uit het leven van zangeres Cléo, die angstvallig de diagnose van een onderzoek naar maagkanker afwacht.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -2207,7 +2243,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1324982"
     }
    ]
@@ -2228,7 +2266,9 @@
     "pl"
    ],
    "description": "Een liefdesverhaal in het Polen ten tijde van de Koude Oorlog. Van de regisseur van Oscarwinnaar Ida.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-12",
@@ -2238,7 +2278,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319279"
     },
     {
@@ -2249,7 +2291,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323518"
     },
     {
@@ -2260,7 +2304,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311619"
     },
     {
@@ -2271,7 +2317,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319799"
     }
    ]
@@ -3187,7 +3235,7 @@
    "languages": [
     "en"
    ],
-   "description": "Nieuwe thriller van Ti Wist (MaXXXine, Pearl) met Johnny Depp als Ebenezer Scrooge. Een bekende naam, een nieuw verhaal.",
+   "description": "Nieuwe thriller van Ti West (MaXXXine, Pearl) met Johnny Depp als Ebenezer Scrooge. Een bekende naam, een nieuw verhaal.",
    "tags": [],
    "screenings": [
     {
@@ -3260,7 +3308,9 @@
     "en"
    ],
    "description": "Deze mogen ze nooit uit ons geheugen wissen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -3270,7 +3320,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325121"
     },
     {
@@ -3281,7 +3333,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321479"
     }
    ]
@@ -3357,7 +3411,9 @@
    "duration": 103,
    "languages": [],
    "description": "De Armeense regisseur Atom Egoyan schept een sensuele, Lynchiaanse microcosmos, waarin niets is wat het lijkt.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -3365,7 +3421,9 @@
      "weekday": "Sun",
      "venue": "The Movies",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/198199"
     }
    ]
@@ -3411,8 +3469,23 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/bbfc2b7a-a7e4-4c41-ad9f-03346c1e3852"
+    },
+    {
+     "cinema_day": "2026-11-15",
+     "start": "2026-11-15 14:00",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherlandvoorpremire?showId=6d17b063-f31e-4abc-86f9-5454c7c8c1bc"
     },
     {
      "cinema_day": "2026-11-16",
@@ -3439,6 +3512,19 @@
       "preview"
      ],
      "tickets": "https://filmhallen.nl/tickets/206063"
+    },
+    {
+     "cinema_day": "2026-11-18",
+     "start": "2026-11-18 19:00",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "preview"
+     ],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherlandvoorpremire?showId=74f2c882-c9ef-4f4f-822d-4912f7ab913b"
     },
     {
      "cinema_day": "2026-11-19",
@@ -3470,7 +3556,9 @@
     "en"
    ],
    "description": "Een compleet van de pot gerukte drugstrip.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-13",
@@ -3478,7 +3566,9 @@
      "weekday": "Fri",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321266"
     }
    ]
@@ -3555,7 +3645,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/f6563b12-6c39-46fd-9c6e-b8089e9620cf"
     },
     {
@@ -3640,7 +3732,9 @@
    "duration": 108,
    "languages": [],
    "description": "Een benauwende film over geweld en de media. Haneke geeft zijn publiek geen kans te ontsnappen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-12",
@@ -3650,7 +3744,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1313446"
     }
    ]
@@ -4449,7 +4545,9 @@
     "pl"
    ],
    "description": "Een in meesterlijk zwart-wit gefilmde roadmovie over grote dilemma's in immorele tijden.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -4459,7 +4557,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325129"
     },
     {
@@ -4470,7 +4570,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323517"
     },
     {
@@ -4481,7 +4583,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319278"
     },
     {
@@ -4492,7 +4596,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311618"
     }
    ]
@@ -4514,7 +4620,9 @@
     "ja"
    ],
    "description": "Klassieker van Akira Kurosawa over een bureaucraat die op zoek gaat naar de zin van het leven.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -4524,7 +4632,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321477"
     }
    ]
@@ -4538,7 +4648,9 @@
    "duration": null,
    "languages": [],
    "description": "",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-12",
@@ -4548,7 +4660,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://filmhallen.nl/tickets/206697"
     }
    ]
@@ -4663,7 +4777,9 @@
     "en"
    ],
    "description": "Een klassieker uit de zwarte L.A.-underground cinema.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-12",
@@ -4673,7 +4789,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322684"
     }
    ]
@@ -4781,15 +4899,21 @@
     "fr"
    ],
    "description": "Profetisch gebleken jeugddrama over drie vrienden die dolen door de Parijse banlieues.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
      "start": "2026-11-15 19:00",
      "weekday": "Sun",
      "venue": "De Uitkijk",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1325412"
     }
    ]
@@ -5013,7 +5137,9 @@
    "duration": null,
    "languages": [],
    "description": "",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -5023,7 +5149,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7009"
     }
    ]
@@ -5044,7 +5172,9 @@
     "en"
    ],
    "description": "Binnenvetter Lee (Casey Affleck) staat oog in oog met de trauma's uit zijn verleden.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-18",
@@ -5052,7 +5182,9 @@
      "weekday": "Wed",
      "venue": "Melkweg Cinema",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": null
     }
    ]
@@ -5176,7 +5308,9 @@
     "en"
    ],
    "description": "Paul Schraders biopic over de Japanse auteur Yukio Mishima.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-13",
@@ -5184,7 +5318,9 @@
      "weekday": "Fri",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1325428"
     },
     {
@@ -5193,7 +5329,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1325416"
     }
    ]
@@ -5552,7 +5690,9 @@
      "start": "2026-11-14 12:05",
      "weekday": "Sat",
      "venue": "Kriterion",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1326257"
     },
@@ -5984,7 +6124,9 @@
     "en"
    ],
    "description": "Een epische zoektocht naar liefde en vrijheid. Orlando (Tilda Swinton) begint als man, om 400 jaar later te eindigen als vrouw.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-16",
@@ -5994,7 +6136,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321478"
     }
    ]
@@ -6016,7 +6160,9 @@
     "en"
    ],
    "description": "Sydney is door dingo's opgevoed. Ze ontdekt dat ze is voorbestemd voor iets veel groters: ze is de nieuwe messias.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -6024,7 +6170,9 @@
      "weekday": "Sat",
      "venue": "Kriterion",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1323782"
     }
    ]
@@ -6046,7 +6194,9 @@
     "en"
    ],
    "description": "Een onvergetelijke roadmovie waarin Wim Wenders Europees sentiment versmelt met Amerikaanse grandeur.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -6054,7 +6204,9 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Paris-Texas-15-Nov-11928812"
     }
    ]
@@ -7593,7 +7745,9 @@
     "ja-JP"
    ],
    "description": "Kantoormedewerker Shohei Sugiyama raakt gefascineerd door een dansschool, en de mysterieuze instructrice Mai.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -7603,7 +7757,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325173"
     },
     {
@@ -7612,7 +7768,9 @@
      "weekday": "Sat",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1325421"
     },
     {
@@ -7623,7 +7781,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325180"
     },
     {
@@ -7634,7 +7794,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325167"
     }
    ]
@@ -7789,7 +7951,9 @@
     "nl-NL"
    ],
    "description": "In het Amsterdam van 1656 schopt de jonge filosoof Spinoza tegen heilige huisjes.",
-   "tags": [],
+   "tags": [
+    "preview"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -7797,7 +7961,9 @@
      "weekday": "Sat",
      "venue": "Cinecenter",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/af8cad22-e057-42da-9221-fe31228783a9"
     },
     {
@@ -7806,7 +7972,9 @@
      "weekday": "Sun",
      "venue": "Cinecenter",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/bc9ca19a-396a-4ea6-953c-a5071be8a747"
     }
    ]
@@ -7860,7 +8028,9 @@
     "en"
    ],
    "description": "Het regiedebuut van scenarioschrijver Charlie Kaufman (Being John Malkovich).",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-17",
@@ -7868,7 +8038,9 @@
      "weekday": "Tue",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315397"
     }
    ]
@@ -7952,7 +8124,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325126"
     }
    ]
@@ -8371,7 +8545,9 @@
      "weekday": "Sat",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1325503"
     },
     {
@@ -8382,7 +8558,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7311"
     },
     {
@@ -8393,7 +8571,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://cinemathepulse.com/films/d94d9eed-47c3-4adf-d0a9-08df3e4aa46d-thedevils?showId=1eaf7bd1-cef4-4299-8fd6-531f20d9228e"
     },
     {
@@ -8404,7 +8584,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1325813"
     },
     {
@@ -8439,7 +8621,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/207433"
     },
     {
@@ -8448,7 +8632,9 @@
      "weekday": "Sat",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/The-Devils-14-Nov-11928809"
     },
     {
@@ -8498,7 +8684,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7302"
     },
     {
@@ -8509,7 +8697,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/207434"
     },
     {
@@ -8533,7 +8723,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1325974"
     },
     {
@@ -8588,7 +8780,7 @@
   {
    "title": "The Joy Luck Club",
    "slug": "the-joy-luck-club",
-   "year": 2025,
+   "year": 1993,
    "directors": [
     "Wayne Wang"
    ],
@@ -9080,7 +9272,7 @@
    ],
    "description": "Bizarre film van Guy Maddin (My Winnipeg) met glansrol van Isabelle Rosselini als de beenloze bierdame. In de winter van 1933 organiseert de eigenares van een brouwerij in de stad Winnipeg een wedstrijd: wie maakt de treurigste muziek ter wereld? Met die muziek hoopt ze meer bier te verkopen in de depressiejaren. Bier proeven in Cavia Vrijdag 18 maart 19 uur: bierproeverij met 5 Duitse en Amerikaa",
    "tags": [
-    "classic"
+    "special"
    ],
    "screenings": [
     {
@@ -9090,7 +9282,7 @@
      "venue": "De Uitkijk",
      "subtitles": [],
      "tags": [
-      "classic"
+      "special"
      ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1321272"
     }
@@ -9147,7 +9339,9 @@
     "en"
    ],
    "description": "Acteur Arnold Schwarzenegger geeft memorabel gestalte aan de mensachtige robot Terminator, een cybernetisch eenmansleger.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -9155,7 +9349,9 @@
      "weekday": "Sat",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323553"
     },
     {
@@ -9164,7 +9360,9 @@
      "weekday": "Sun",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325134"
     }
    ]
@@ -9187,7 +9385,9 @@
     "en"
    ],
    "description": "De roemruchte seventies-horror met kettingzaag en mensenhuidmasker.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -9197,7 +9397,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7273"
     },
     {
@@ -9208,7 +9410,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7296"
     }
    ]
@@ -9230,7 +9434,9 @@
     "en"
    ],
    "description": "Het magnum opus van Terrence Malick (The Thin Red Line). Met Brad Pitt, Jessica Chastain, dino's en de geboorte van het universum.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-15",
@@ -9240,7 +9446,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325132"
     }
    ]
@@ -9323,7 +9531,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323501"
     },
     {
@@ -9334,7 +9544,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325127"
     }
    ]
@@ -9342,7 +9554,7 @@
   {
    "title": "Trippel Trappel: Dierensinterklaas",
    "slug": "trippel-trappel-dierensinterklaas",
-   "year": 2014,
+   "year": 2013,
    "directors": [
     "Albert 't Hooft",
     "Paco Vink"
@@ -9410,7 +9622,9 @@
     "en"
    ],
    "description": "Tussen het verleden en de toekomst, gezond verstand en waanzin, dromen en werkelijkheid, ligt het mysterie van de Twelve Monkeys.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-14",
@@ -9418,7 +9632,9 @@
      "weekday": "Sat",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1324984"
     },
     {
@@ -9427,7 +9643,9 @@
      "weekday": "Wed",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315393"
     }
    ]
