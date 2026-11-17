@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:53:51+01:00",
+ "generated_at": "2026-11-17T12:59:47+01:00",
  "city": "amsterdam",
  "from": "2026-11-17",
  "to": "2026-11-26",
@@ -7,13 +7,13 @@
  "screenings_per_day": {
   "2026-11-17": 51,
   "2026-11-18": 48,
-  "2026-11-19": 48,
-  "2026-11-20": 56,
-  "2026-11-21": 290,
-  "2026-11-22": 230,
-  "2026-11-23": 52,
-  "2026-11-24": 55,
-  "2026-11-25": 56,
+  "2026-11-19": 50,
+  "2026-11-20": 60,
+  "2026-11-21": 309,
+  "2026-11-22": 253,
+  "2026-11-23": 58,
+  "2026-11-24": 61,
+  "2026-11-25": 62,
   "2026-11-26": 11
  },
  "film_count": 197,
@@ -34,7 +34,9 @@
     "en"
    ],
    "description": "De legendarische tijdruimtetrip van grootmeester Stanley Kubrick. \"To infinity, and beyond!\" 👀",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
@@ -44,7 +46,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1327412"
     }
    ]
@@ -667,6 +671,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 11:00",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/38da1885-dc05-416a-b3e8-08dec473f15c-andiamoaberelultima?showId=f64a74bb-8405-4e49-812e-17972c503b41"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 14:25",
      "weekday": "Sat",
      "venue": "LAB111",
@@ -694,7 +709,9 @@
     "es"
    ],
    "description": "Een heroïneverslaafde horrorregisseur haalt de net zo verslaafde neef van zijn vriendinnetje in huis.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-24",
@@ -704,7 +721,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1322477"
     }
    ]
@@ -759,7 +778,9 @@
     "en"
    ],
    "description": "Klassiek tijdreisavontuur van Robert Zemeckis.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
@@ -769,7 +790,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326872"
     }
    ]
@@ -807,11 +830,15 @@
   {
    "title": "Bardi",
    "slug": "bardi",
-   "year": 0,
-   "directors": [],
+   "year": 2026,
+   "directors": [
+    "Tala Hadid"
+   ],
    "cast": [],
-   "duration": 0,
-   "languages": [],
+   "duration": 108,
+   "languages": [
+    "ar-MA"
+   ],
    "description": "Documentaire over jongens in Centraal-Marokko die worden ingewijd in de eeuwenoude ruiterkunst Tbourida",
    "tags": [
     "special"
@@ -985,16 +1012,50 @@
     "pt"
    ],
    "description": "Gewelddadig en flitsend gefilmd epos over het harde leven in de sloppenwijken van Rio de Janeiro.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-21",
      "start": "2026-11-21 12:25",
      "weekday": "Sat",
      "venue": "De Uitkijk",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1327030"
+    }
+   ]
+  },
+  {
+   "title": "Clayface",
+   "slug": "clayface",
+   "year": 2026,
+   "directors": [
+    "James Watkins"
+   ],
+   "cast": [],
+   "duration": 0,
+   "languages": [
+    "en"
+   ],
+   "description": "Horror-thriller van James Watkins (Speak No Evil) over een Hollywoodster die verminkt raakt en wraakt neemt op iedereen die 'm heeft afgedankt.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 21:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d6572186-f233-4a4c-666a-08df26d43136-clayface?showId=dedcb568-f377-4b16-ac0f-7547449a270b"
     }
    ]
   },
@@ -1486,6 +1547,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 21:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/610a89ad-0984-4839-7620-08df38ce25bf-clubkid?showId=1aecddb8-59d8-41e1-892a-9a957e720648"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 21:30",
      "weekday": "Sat",
      "venue": "Rialto Silo",
@@ -1514,6 +1586,17 @@
      ],
      "tags": [],
      "tickets": "https://themovies.nl/tickets/208074"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 13:15",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/610a89ad-0984-4839-7620-08df38ce25bf-clubkid?showId=27da4652-aead-4f77-93d5-06d5fc9071d8"
     },
     {
      "cinema_day": "2026-11-22",
@@ -1625,6 +1708,17 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://kassa.studio-k.nu/#/checkout/77f01179-2171-4b96-a4e0-7da6616fff5b"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 18:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/610a89ad-0984-4839-7620-08df38ce25bf-clubkid?showId=bc7ba284-bacf-4e0e-baad-9bd3e4d60306"
     },
     {
      "cinema_day": "2026-11-22",
@@ -1821,6 +1915,17 @@
     },
     {
      "cinema_day": "2026-11-24",
+     "start": "2026-11-24 18:35",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/610a89ad-0984-4839-7620-08df38ce25bf-clubkid?showId=6fbcd064-a105-4f5f-9f8b-f08273928b5d"
+    },
+    {
+     "cinema_day": "2026-11-24",
      "start": "2026-11-24 18:40",
      "weekday": "Tue",
      "venue": "Filmhallen",
@@ -1860,6 +1965,17 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/208631"
+    },
+    {
+     "cinema_day": "2026-11-25",
+     "start": "2026-11-25 18:45",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/610a89ad-0984-4839-7620-08df38ce25bf-clubkid?showId=9ed7b544-6cbf-4be3-a292-b41c3b6f9c2a"
     },
     {
      "cinema_day": "2026-11-25",
@@ -1935,6 +2051,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 21:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/91992c0e-d85c-4811-0fa4-08df428c54a0-colonyenglishsubtitles?showId=da0d903d-40d4-4a4c-acff-d2e91d2b3d4d"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 21:30",
      "weekday": "Sat",
      "venue": "Rialto VU Griffioen",
@@ -1954,6 +2081,17 @@
      ],
      "tags": [],
      "tickets": "https://griffioen.vu.nl/bestel/7430"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 21:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/91992c0e-d85c-4811-0fa4-08df428c54a0-colonyenglishsubtitles?showId=4f2919bb-c425-45eb-87c1-13437bd253a4"
     },
     {
      "cinema_day": "2026-11-23",
@@ -2046,6 +2184,17 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1327538"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 13:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/309d4c66-cc0f-48ea-11f6-08df1f1cc83a-coward?showId=6d79c8c9-4955-4c7e-b4d2-71c2946a3330"
     },
     {
      "cinema_day": "2026-11-21",
@@ -2192,7 +2341,7 @@
   {
    "title": "Cuscú",
    "slug": "cuscu",
-   "year": 0,
+   "year": 2026,
    "directors": [
     "Risseth Yangüez Singh"
    ],
@@ -2247,12 +2396,34 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 10:45",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/3b1b5b23-250f-4805-4082-08df06a96530-degaullelibert?showId=4e2d0e22-f67d-457c-bf72-a281e6cd5c96"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 20:35",
      "weekday": "Sat",
      "venue": "Cinecenter",
      "subtitles": [],
      "tags": [],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/1e027c99-c213-4eb4-8710-1d7d72ff6fa3"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 10:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/3b1b5b23-250f-4805-4082-08df06a96530-degaullelibert?showId=a5ebc08b-5e42-4b4e-b560-fd7aa5a230e7"
     },
     {
      "cinema_day": "2026-11-22",
@@ -2378,15 +2549,6 @@
    "description": "Een kijkje achter de gesloten deuren van het functioneringsgesprek.",
    "tags": [],
    "screenings": [
-    {
-     "cinema_day": "2026-11-19",
-     "start": "2026-11-19 19:30",
-     "weekday": "Thu",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11839979"
-    },
     {
      "cinema_day": "2026-11-21",
      "start": "2026-11-21 16:15",
@@ -2546,7 +2708,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7420"
     },
     {
@@ -2596,7 +2760,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325211"
     },
     {
@@ -2605,7 +2771,9 @@
      "weekday": "Sat",
      "venue": "FC Hyena",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1317074"
     },
     {
@@ -2614,7 +2782,9 @@
      "weekday": "Sat",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Donnie-Darko-21-Nov-11929008"
     },
     {
@@ -2623,7 +2793,9 @@
      "weekday": "Sat",
      "venue": "Rialto Silo",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Donnie-Darko-21-Nov-11928951"
     },
     {
@@ -2647,7 +2819,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7423"
     },
     {
@@ -2658,8 +2832,23 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://filmhallen.nl/tickets/208634"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 21:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://cinemathepulse.com/films/9f9ce903-6a5d-46b3-3334-08df35c690c2-donniedarko?showId=ab0d8af6-c9d4-4b45-ba32-56125823829a"
     },
     {
      "cinema_day": "2026-11-21",
@@ -2680,7 +2869,9 @@
      "weekday": "Sat",
      "venue": "Studio/K",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kassa.studio-k.nu/#/checkout/15bfca8e-dfe3-44b1-b8cd-9ecdf162ac8b"
     },
     {
@@ -2691,7 +2882,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325212"
     },
     {
@@ -2715,7 +2908,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1327390"
     },
     {
@@ -2726,7 +2921,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322677"
     },
     {
@@ -2735,7 +2932,9 @@
      "weekday": "Sun",
      "venue": "Studio/K",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kassa.studio-k.nu/#/checkout/1c7dad98-f7c8-41c2-9e95-2a21439e0e0f"
     },
     {
@@ -2744,7 +2943,9 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Donnie-Darko-22-Nov-11929032"
     },
     {
@@ -2762,11 +2963,26 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 19:00",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://cinemathepulse.com/films/9f9ce903-6a5d-46b3-3334-08df35c690c2-donniedarko?showId=0ae5e90a-42cf-4703-b6cd-ca914e46b0f0"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 20:30",
      "weekday": "Sun",
      "venue": "Rialto Silo",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Donnie-Darko-22-Nov-11928952"
     },
     {
@@ -2777,7 +2993,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322679"
     },
     {
@@ -2801,7 +3019,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://filmhallen.nl/tickets/208635"
     },
     {
@@ -2812,7 +3032,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7421"
     },
     {
@@ -2830,13 +3052,28 @@
     },
     {
      "cinema_day": "2026-11-24",
+     "start": "2026-11-24 18:35",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [
+      "classic"
+     ],
+     "tickets": "https://cinemathepulse.com/films/9f9ce903-6a5d-46b3-3334-08df35c690c2-donniedarko?showId=9259e795-cb3a-4ce0-aa77-dfe1c0bc0c93"
+    },
+    {
+     "cinema_day": "2026-11-24",
      "start": "2026-11-24 18:45",
      "weekday": "Tue",
      "venue": "Eye",
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322675"
     },
     {
@@ -2882,7 +3119,9 @@
      "weekday": "Wed",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Donnie-Darko-25-Nov-11929057"
     },
     {
@@ -2893,7 +3132,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326922"
     }
    ]
@@ -3263,6 +3504,17 @@
     },
     {
      "cinema_day": "2026-11-20",
+     "start": "2026-11-20 18:45",
+     "weekday": "Fri",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherland?showId=b88c18ce-be32-44db-8979-a0f283ac928c"
+    },
+    {
+     "cinema_day": "2026-11-20",
      "start": "2026-11-20 18:50",
      "weekday": "Fri",
      "venue": "The Movies",
@@ -3536,6 +3788,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 19:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherland?showId=879f63df-a7e5-407f-a658-63410a1de180"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 21:30",
      "weekday": "Sat",
      "venue": "Kriterion",
@@ -3700,6 +3963,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 18:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherlandenglishsubtitles?showId=170ec8ef-f2cd-43a7-b677-48970adb8b78"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 18:50",
      "weekday": "Sun",
      "venue": "The Movies",
@@ -3761,6 +4035,17 @@
      ],
      "tags": [],
      "tickets": "https://kassa.studio-k.nu/#/checkout/3363d85d-dd5d-4758-9762-8bc9763a77b8"
+    },
+    {
+     "cinema_day": "2026-11-23",
+     "start": "2026-11-23 18:45",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherland?showId=14a49e5c-44fc-4851-97bd-e6973eee4f24"
     },
     {
      "cinema_day": "2026-11-23",
@@ -3856,6 +4141,17 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://kassa.studio-k.nu/#/checkout/ad9bd032-a452-4741-8f69-0cf198dc7820"
+    },
+    {
+     "cinema_day": "2026-11-24",
+     "start": "2026-11-24 18:45",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherlandenglishsubtitles?showId=aa3e5269-fe2d-4a70-9763-a45014d8ac08"
     },
     {
      "cinema_day": "2026-11-24",
@@ -3959,6 +4255,17 @@
     },
     {
      "cinema_day": "2026-11-25",
+     "start": "2026-11-25 19:00",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e56bf6a0-5cac-47c8-3336-08df35c690c2-fatherland?showId=ef01668f-1538-4922-926b-80c1d6139270"
+    },
+    {
+     "cinema_day": "2026-11-25",
      "start": "2026-11-25 19:15",
      "weekday": "Wed",
      "venue": "LAB111",
@@ -4057,7 +4364,9 @@
     "en"
    ],
    "description": "Een compleet van de pot gerukte drugstrip.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-20",
@@ -4065,7 +4374,9 @@
      "weekday": "Fri",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1321267"
     }
    ]
@@ -4109,7 +4420,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/2a532e6a-28a6-412b-bea8-a2250109f78a"
     },
     {
@@ -4143,7 +4456,7 @@
   {
    "title": "Flamenco Sketches",
    "slug": "flamenco-sketches",
-   "year": 0,
+   "year": 2026,
    "directors": [
     "Isaki Lacuesta"
    ],
@@ -4571,6 +4884,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 13:30",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b738b9d0-4887-4fdc-03ea-08df2b8cd94e-georgemichaelthefaithtour?showId=e394ed89-d933-420b-9706-e93ad34429fe"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 21:00",
      "weekday": "Sat",
      "venue": "Filmhallen",
@@ -4582,6 +4906,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 11:00",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b738b9d0-4887-4fdc-03ea-08df2b8cd94e-georgemichaelthefaithtour?showId=caf77c9b-9e59-4835-a915-ed341bf6d350"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 15:45",
      "weekday": "Sun",
      "venue": "Filmhallen",
@@ -4590,6 +4925,39 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/208660"
+    },
+    {
+     "cinema_day": "2026-11-23",
+     "start": "2026-11-23 19:00",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b738b9d0-4887-4fdc-03ea-08df2b8cd94e-georgemichaelthefaithtour?showId=7653c547-8d67-4f17-9c61-0fce7f89a90c"
+    },
+    {
+     "cinema_day": "2026-11-24",
+     "start": "2026-11-24 19:00",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b738b9d0-4887-4fdc-03ea-08df2b8cd94e-georgemichaelthefaithtour?showId=25c46e36-8410-4d27-9c85-297e9ba58ca9"
+    },
+    {
+     "cinema_day": "2026-11-25",
+     "start": "2026-11-25 18:45",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/b738b9d0-4887-4fdc-03ea-08df2b8cd94e-georgemichaelthefaithtour?showId=0a0ab005-767a-42c5-984d-168757d35bf5"
     }
    ]
   },
@@ -4612,6 +4980,17 @@
    "description": "Het monsterverhaal gaat verder, twee jaar na de gebeurtenissen uit Godzilla Minus One.",
    "tags": [],
    "screenings": [
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 21:20",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/53d69c6b-ca27-4f23-25d0-08df238c35ba-godzillaminuszeroenglishsubtitles?showId=360a98cf-efdf-4a3d-99d5-a631fbd7809c"
+    },
     {
      "cinema_day": "2026-11-24",
      "start": "2026-11-24 18:15",
@@ -4953,6 +5332,36 @@
    ]
   },
   {
+   "title": "Hoelang nog",
+   "slug": "hoelang-nog",
+   "year": 2026,
+   "directors": [
+    "Niels van Koevorden"
+   ],
+   "cast": [],
+   "duration": 83,
+   "languages": [
+    "nl"
+   ],
+   "description": "Het slechte nieuws, ongeneeslijke kanker, hebben ze al gehad. Nu proberen Rob, Rein, Tilly, Ben en Marian in de spreekkamer van de oncoloog hun situatie onder ogen te zien.",
+   "tags": [
+    "special"
+   ],
+   "screenings": [
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 15:30",
+     "weekday": "Sat",
+     "venue": "IDFA",
+     "subtitles": [],
+     "tags": [
+      "special"
+     ],
+     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
+    }
+   ]
+  },
+  {
    "title": "Hold Your Breath",
    "slug": "hold-your-breath",
    "year": 2026,
@@ -5027,6 +5436,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 16:00",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8573e035-5a8e-4925-d0ab-08df3e4aa46d-hopeenglishsubtitles?showId=ba0640bc-7908-4164-b83d-82a44bc563f7"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 20:20",
      "weekday": "Sat",
      "venue": "LAB111",
@@ -5082,6 +5502,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 20:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8573e035-5a8e-4925-d0ab-08df3e4aa46d-hopeenglishsubtitles?showId=ae379188-6e2f-4075-ba0e-b76058780a83"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 21:10",
      "weekday": "Sun",
      "venue": "Kriterion",
@@ -5105,32 +5536,6 @@
    ]
   },
   {
-   "title": "How Much Longer",
-   "slug": "how-much-longer",
-   "year": null,
-   "directors": [],
-   "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [
-    "special"
-   ],
-   "screenings": [
-    {
-     "cinema_day": "2026-11-21",
-     "start": "2026-11-21 15:30",
-     "weekday": "Sat",
-     "venue": "IDFA",
-     "subtitles": [],
-     "tags": [
-      "special"
-     ],
-     "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
-    }
-   ]
-  },
-  {
    "title": "Hundstage",
    "slug": "dog-days",
    "year": 2001,
@@ -5143,7 +5548,9 @@
     "de"
    ],
    "description": "Ulrich Seidl schetst in zijn eerste speelfilm een beklemmend portret van verloren zielen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-24",
@@ -5153,7 +5560,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303659"
     }
    ]
@@ -5176,7 +5585,9 @@
      "start": "2026-11-25 19:40",
      "weekday": "Wed",
      "venue": "Filmhuis Cavia",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": null
     }
@@ -5236,6 +5647,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 16:15",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/602032e8-d7b6-44d0-761e-08df38ce25bf-iloveboosters?showId=f4362556-699f-4cc3-8e28-cb7b5642491a"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 17:45",
      "weekday": "Sun",
      "venue": "Rialto Silo",
@@ -5264,6 +5686,17 @@
    "tags": [],
    "screenings": [
     {
+     "cinema_day": "2026-11-20",
+     "start": "2026-11-20 18:30",
+     "weekday": "Fri",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8d581fef-866e-4b64-0fa2-08df428c54a0-iplayrocky?showId=88aab8a3-467b-406a-9960-f2057e5bdd1f"
+    },
+    {
      "cinema_day": "2026-11-21",
      "start": "2026-11-21 16:15",
      "weekday": "Sat",
@@ -5273,6 +5706,17 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/208470"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 18:35",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8d581fef-866e-4b64-0fa2-08df428c54a0-iplayrocky?showId=ec800700-a8e8-4820-8d1e-19affbc7b531"
     },
     {
      "cinema_day": "2026-11-21",
@@ -5306,6 +5750,39 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/208485"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 21:15",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8d581fef-866e-4b64-0fa2-08df428c54a0-iplayrocky?showId=d1544c15-972d-4d82-8891-f11bc500a695"
+    },
+    {
+     "cinema_day": "2026-11-23",
+     "start": "2026-11-23 18:30",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8d581fef-866e-4b64-0fa2-08df428c54a0-iplayrocky?showId=7cb5ddad-b164-4071-9168-d9e4c6ceb188"
+    },
+    {
+     "cinema_day": "2026-11-25",
+     "start": "2026-11-25 18:30",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8d581fef-866e-4b64-0fa2-08df428c54a0-iplayrocky?showId=53b24587-8f2b-4a3c-95ce-e2103caf79d5"
     }
    ]
   },
@@ -5404,15 +5881,6 @@
     },
     {
      "cinema_day": "2026-11-21",
-     "start": "2026-11-21 10:30",
-     "weekday": "Sat",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11839988"
-    },
-    {
-     "cinema_day": "2026-11-21",
      "start": "2026-11-21 19:30",
      "weekday": "Sat",
      "venue": "De Balie",
@@ -5425,7 +5893,7 @@
   {
    "title": "Imroz'da bahar",
    "slug": "imrozda-bahar",
-   "year": 0,
+   "year": 2026,
    "directors": [
     "Özcan Alper"
    ],
@@ -5509,13 +5977,16 @@
   {
    "title": "In the Company of Men & The First World Festival of Negro Arts",
    "slug": "in-the-company-of-men-the-first-world-festival-of-negro-arts",
-   "year": 0,
-   "directors": [],
+   "year": 1969,
+   "directors": [
+    "William Greaves"
+   ],
    "cast": [],
-   "duration": 0,
+   "duration": 94,
    "languages": [],
    "description": "Twee films uit de jaren 60 die zwartheid vieren. Door filmmaker William Greaves.",
    "tags": [
+    "classic",
     "special"
    ],
    "screenings": [
@@ -5526,7 +5997,8 @@
      "venue": "IDFA",
      "subtitles": [],
      "tags": [
-      "special"
+      "special",
+      "classic"
      ],
      "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
     }
@@ -5535,7 +6007,7 @@
   {
    "title": "Into the Jaws of the Ogre",
    "slug": "into-the-jaws-of-the-ogre",
-   "year": 0,
+   "year": 2026,
    "directors": [
     "Mahsa Karampour"
    ],
@@ -5629,7 +6101,10 @@
     "en"
    ],
    "description": "Een klassieker uit de zwarte L.A.-underground cinema.",
-   "tags": [],
+   "tags": [
+    "classic",
+    "preview"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-23",
@@ -5639,7 +6114,10 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview",
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322600"
     },
     {
@@ -5650,7 +6128,10 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview",
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322598"
     },
     {
@@ -5758,6 +6239,7 @@
    "languages": [],
    "description": "Een loeiheet familieonderonsje in een verraderlijk moerasgebied in Argentinië.",
    "tags": [
+    "classic",
     "special"
    ],
    "screenings": [
@@ -5768,7 +6250,8 @@
      "venue": "IDFA",
      "subtitles": [],
      "tags": [
-      "special"
+      "special",
+      "classic"
      ],
      "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
     }
@@ -5791,15 +6274,21 @@
     "fr"
    ],
    "description": "Profetisch gebleken jeugddrama over drie vrienden die dolen door de Parijse banlieues.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
      "start": "2026-11-22 19:00",
      "weekday": "Sun",
      "venue": "De Uitkijk",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1327170"
     }
    ]
@@ -5819,15 +6308,21 @@
    "duration": 99,
    "languages": [],
    "description": "Carl Theodor Dreyers expressionistische klassieker over het veroordelingsproces van de beroemde 'Maagd van Orléans', Jeanne d'Arc.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
      "start": "2026-11-22 21:00",
      "weekday": "Sun",
      "venue": "De Uitkijk",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1318954"
     }
    ]
@@ -5946,7 +6441,7 @@
   {
    "title": "Lady (2025)",
    "slug": "lady-2025",
-   "year": 2026,
+   "year": 2025,
    "directors": [
     "Samuel Abrahams "
    ],
@@ -6028,7 +6523,9 @@
     "ja-JP"
    ],
    "description": "Wanneer hun zangeres vlak voor het schoolfestival opstapt, besluiten drie Japanse scholieren een Koreaanse uitwisselingsstudente zonder muzikale ervaring te vragen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
@@ -6036,7 +6533,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1326715"
     }
    ]
@@ -6161,24 +6660,6 @@
      "tickets": "https://tickets.debalie.nl/Show/Details/11839966"
     },
     {
-     "cinema_day": "2026-11-21",
-     "start": "2026-11-21 12:45",
-     "weekday": "Sat",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11839989"
-    },
-    {
-     "cinema_day": "2026-11-21",
-     "start": "2026-11-21 21:45",
-     "weekday": "Sat",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11839994"
-    },
-    {
      "cinema_day": "2026-11-22",
      "start": "2026-11-22 12:00",
      "weekday": "Sun",
@@ -6186,15 +6667,6 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets.debalie.nl/Show/Details/11839996"
-    },
-    {
-     "cinema_day": "2026-11-22",
-     "start": "2026-11-22 18:45",
-     "weekday": "Sun",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11840000"
     }
    ]
   },
@@ -6464,7 +6936,9 @@
     "en"
    ],
    "description": "Mode, cake, champagne en dansen op New Order; dit was het hof van Versailles volgens Sofia Coppola.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
@@ -6472,7 +6946,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1327028"
     }
    ]
@@ -6536,6 +7012,17 @@
       "preview"
      ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/241eca5a-0d44-4a8a-8b38-223225a7531e"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 15:50",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d78f35ed-95bb-495a-d01d-08df35e454b6-minotaurvoorpremire?showId=cfe723d7-f060-430c-8647-a7fe8c82a12d"
     },
     {
      "cinema_day": "2026-11-22",
@@ -6605,7 +7092,9 @@
     "en"
    ],
    "description": "Paul Schraders biopic over de Japanse auteur Yukio Mishima.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-24",
@@ -6613,7 +7102,9 @@
      "weekday": "Tue",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1327031"
     }
    ]
@@ -6733,7 +7224,9 @@
     "ja-JP"
    ],
    "description": "Even tot rust komen in dorpje Nagi met architect Yuri, beeldhouwer Yoriko en een flinke lading oud zeer in de koffer.",
-   "tags": [],
+   "tags": [
+    "preview"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-25",
@@ -6741,7 +7234,9 @@
      "weekday": "Wed",
      "venue": "FC Hyena",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1326981"
     }
    ]
@@ -6875,7 +7370,7 @@
     },
     {
      "cinema_day": "2026-11-21",
-     "start": "2026-11-21 14:30",
+     "start": "2026-11-21 14:15",
      "weekday": "Sat",
      "venue": "De Balie",
      "subtitles": [],
@@ -7005,7 +7500,9 @@
      "start": "2026-11-22 19:05",
      "weekday": "Sun",
      "venue": "Kriterion",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1328026"
     },
@@ -7025,18 +7522,11 @@
      "start": "2026-11-23 19:30",
      "weekday": "Mon",
      "venue": "Kriterion",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1327984"
-    },
-    {
-     "cinema_day": "2026-11-25",
-     "start": "2026-11-25 19:30",
-     "weekday": "Wed",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11840023"
     }
    ]
   },
@@ -7124,7 +7614,9 @@
     "en"
    ],
    "description": "Sydney is door dingo's opgevoed. Ze ontdekt dat ze is voorbestemd voor iets veel groters: ze is de nieuwe messias.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-21",
@@ -7132,7 +7624,9 @@
      "weekday": "Sat",
      "venue": "Kriterion",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1323792"
     }
    ]
@@ -7154,8 +7648,21 @@
     "en"
    ],
    "description": "In de zomer van 1986 gaan twee broers (Miles Teller en Adam Driver) in zee met de maffia. Van regisseur James Gray (Ad Astra).",
-   "tags": [],
+   "tags": [
+    "preview"
+   ],
    "screenings": [
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 16:00",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/1a8c1a49-7006-4230-d01f-08df35e454b6-papertigervoorpremire?showId=c68098b7-4bbf-4918-869a-83dc835f0fd0"
+    },
     {
      "cinema_day": "2026-11-22",
      "start": "2026-11-22 11:15",
@@ -7164,7 +7671,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/ebe89a37-d5e6-47a1-a506-dac84c1f716b"
     }
    ]
@@ -7212,7 +7721,9 @@
     "en"
    ],
    "description": "Een onvergetelijke roadmovie waarin Wim Wenders Europees sentiment versmelt met Amerikaanse grandeur.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-22",
@@ -7220,7 +7731,9 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Paris-Texas-22-Nov-11928849"
     }
    ]
@@ -7330,6 +7843,15 @@
      "tickets": "https://filmhallen.nl/tickets/208662"
     },
     {
+     "cinema_day": "2026-11-20",
+     "start": "2026-11-20 19:00",
+     "weekday": "Fri",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e721b991-f0d9-4462-daaf-08df2dc1b370-primetime?showId=fa9f4851-7ec7-4fba-92e0-f1c2640214fc"
+    },
+    {
      "cinema_day": "2026-11-21",
      "start": "2026-11-21 14:35",
      "weekday": "Sat",
@@ -7350,6 +7872,15 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/208655"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 16:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e721b991-f0d9-4462-daaf-08df2dc1b370-primetime?showId=d77080b0-9e69-4fb6-b2da-31d07c81a181"
     },
     {
      "cinema_day": "2026-11-21",
@@ -7459,6 +7990,15 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 18:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e721b991-f0d9-4462-daaf-08df2dc1b370-primetime?showId=e3a91d61-59b4-44b9-afeb-142560dcfa6c"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 20:10",
      "weekday": "Sun",
      "venue": "FC Hyena",
@@ -7485,6 +8025,15 @@
      ],
      "tags": [],
      "tickets": "https://themovies.nl/tickets/208173"
+    },
+    {
+     "cinema_day": "2026-11-23",
+     "start": "2026-11-23 18:35",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e721b991-f0d9-4462-daaf-08df2dc1b370-primetime?showId=cb5f2972-fc68-4f04-829c-c4db4533518e"
     },
     {
      "cinema_day": "2026-11-23",
@@ -7551,6 +8100,15 @@
      ],
      "tags": [],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1327515"
+    },
+    {
+     "cinema_day": "2026-11-25",
+     "start": "2026-11-25 19:15",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e721b991-f0d9-4462-daaf-08df2dc1b370-primetime?showId=526e3508-03d6-4d39-99a6-de7499f0d2f4"
     }
    ]
   },
@@ -7767,6 +8325,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 18:40",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d34f21e9-d466-490c-9b1b-08df0cdc6c59-queenatsea?showId=5e12b6c7-7a37-4b4b-b9a5-88eee6a1594f"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 21:30",
      "weekday": "Sat",
      "venue": "Rialto Silo",
@@ -7825,6 +8394,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 15:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d34f21e9-d466-490c-9b1b-08df0cdc6c59-queenatsea?showId=604dd8d5-c480-4239-ade4-f8ceeade3e55"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 16:00",
      "weekday": "Sun",
      "venue": "Filmhallen",
@@ -7866,6 +8446,28 @@
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327795"
     },
     {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 18:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d34f21e9-d466-490c-9b1b-08df0cdc6c59-queenatsea?showId=eeb26a41-2d33-4140-a3ea-699d11bc5b28"
+    },
+    {
+     "cinema_day": "2026-11-23",
+     "start": "2026-11-23 18:30",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d34f21e9-d466-490c-9b1b-08df0cdc6c59-queenatsea?showId=3ea3192b-eaba-440b-a89f-451e6ef060a7"
+    },
+    {
      "cinema_day": "2026-11-23",
      "start": "2026-11-23 18:45",
      "weekday": "Mon",
@@ -7882,6 +8484,17 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Queen-at-Sea-24-Nov-11929064"
+    },
+    {
+     "cinema_day": "2026-11-24",
+     "start": "2026-11-24 18:40",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/d34f21e9-d466-490c-9b1b-08df0cdc6c59-queenatsea?showId=54d1dd20-56cc-4343-8527-50e481a6c32f"
     },
     {
      "cinema_day": "2026-11-24",
@@ -8786,6 +9399,15 @@
    "tags": [],
    "screenings": [
     {
+     "cinema_day": "2026-11-19",
+     "start": "2026-11-19 19:30",
+     "weekday": "Thu",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839979"
+    },
+    {
      "cinema_day": "2026-11-20",
      "start": "2026-11-20 18:30",
      "weekday": "Fri",
@@ -8793,6 +9415,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1327613"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 10:30",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839988"
     },
     {
      "cinema_day": "2026-11-21",
@@ -8813,6 +9444,15 @@
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1327628"
     },
     {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 21:45",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839994"
+    },
+    {
      "cinema_day": "2026-11-22",
      "start": "2026-11-22 13:10",
      "weekday": "Sun",
@@ -8829,6 +9469,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1327639"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 20:30",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840026"
     },
     {
      "cinema_day": "2026-11-23",
@@ -8896,6 +9545,15 @@
    "tags": [],
    "screenings": [
     {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 12:15",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11839989"
+    },
+    {
      "cinema_day": "2026-11-23",
      "start": "2026-11-23 19:15",
      "weekday": "Mon",
@@ -8903,15 +9561,6 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets.debalie.nl/Show/Details/11840007"
-    },
-    {
-     "cinema_day": "2026-11-24",
-     "start": "2026-11-24 20:00",
-     "weekday": "Tue",
-     "venue": "De Balie",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.debalie.nl/Show/Details/11840017"
     }
    ]
   },
@@ -9264,6 +9913,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 11:15",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/e48d99c6-7462-4487-ade0-08df16f4a87b-thecycleoflove?showId=fd5a49c5-64f9-44ef-98b9-f7c42d432c52"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 13:30",
      "weekday": "Sat",
      "venue": "Filmhallen",
@@ -9398,7 +10058,9 @@
     "en"
    ],
    "description": "Een profetisch epos over een 17e-eeuwse priester, die ervan wordt beschuldigd nonnen te hebben betoverd.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-17",
@@ -9406,7 +10068,9 @@
      "weekday": "Tue",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1313454"
     },
     {
@@ -9417,7 +10081,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325186"
     },
     {
@@ -9428,7 +10094,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326842"
     },
     {
@@ -9439,7 +10107,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7362"
     },
     {
@@ -9450,7 +10120,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1327387"
     },
     {
@@ -9459,7 +10131,9 @@
      "weekday": "Sat",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326994"
     },
     {
@@ -9470,7 +10144,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326864"
     },
     {
@@ -9481,7 +10157,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325189"
     },
     {
@@ -9490,7 +10168,9 @@
      "weekday": "Sun",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326992"
     },
     {
@@ -9499,7 +10179,9 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/The-Devils-22-Nov-11929024"
     },
     {
@@ -9510,7 +10192,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/208133"
     },
     {
@@ -9521,7 +10205,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325191"
     },
     {
@@ -9532,7 +10218,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/208131"
     },
     {
@@ -9543,7 +10231,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325192"
     },
     {
@@ -9552,7 +10242,9 @@
      "weekday": "Wed",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326990"
     },
     {
@@ -9563,7 +10255,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/208132"
     }
    ]
@@ -10039,6 +10733,17 @@
     },
     {
      "cinema_day": "2026-11-19",
+     "start": "2026-11-19 18:30",
+     "weekday": "Thu",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=693421df-650a-4c50-abd2-8e9e67153d9b"
+    },
+    {
+     "cinema_day": "2026-11-19",
      "start": "2026-11-19 18:45",
      "weekday": "Thu",
      "venue": "Het Ketelhuis",
@@ -10087,6 +10792,17 @@
      ],
      "tags": [],
      "tickets": "https://themovies.nl/tickets/208159"
+    },
+    {
+     "cinema_day": "2026-11-20",
+     "start": "2026-11-20 18:30",
+     "weekday": "Fri",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=12fa2266-18bc-4115-b167-b59c0c7c1414"
     },
     {
      "cinema_day": "2026-11-20",
@@ -10161,6 +10877,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 13:45",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=8d0676a7-2b86-423d-80da-fbe58e76ec8c"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 14:15",
      "weekday": "Sat",
      "venue": "The Movies",
@@ -10209,6 +10936,17 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/208568"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 18:30",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=0fe6c393-0f7e-487e-840b-7854e17412ff"
     },
     {
      "cinema_day": "2026-11-21",
@@ -10294,6 +11032,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 13:15",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=fce47e22-154f-4eb2-afbb-c88b74fda899"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 14:15",
      "weekday": "Sun",
      "venue": "The Movies",
@@ -10374,6 +11123,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 18:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=03a73fc8-452a-4830-838d-11aaa946ef6d"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 19:00",
      "weekday": "Sun",
      "venue": "Filmhallen",
@@ -10418,6 +11178,17 @@
     },
     {
      "cinema_day": "2026-11-23",
+     "start": "2026-11-23 18:30",
+     "weekday": "Mon",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=9a4b329a-70a0-47b0-b117-811842eef36f"
+    },
+    {
+     "cinema_day": "2026-11-23",
      "start": "2026-11-23 18:50",
      "weekday": "Mon",
      "venue": "FC Hyena",
@@ -10455,6 +11226,17 @@
      ],
      "tags": [],
      "tickets": "https://themovies.nl/tickets/208163"
+    },
+    {
+     "cinema_day": "2026-11-24",
+     "start": "2026-11-24 18:30",
+     "weekday": "Tue",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=16de6f66-be3b-4410-a90f-10192f722905"
     },
     {
      "cinema_day": "2026-11-24",
@@ -10509,6 +11291,17 @@
     },
     {
      "cinema_day": "2026-11-25",
+     "start": "2026-11-25 18:30",
+     "weekday": "Wed",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/f4b53691-7c2f-420f-3332-08df35c690c2-theonlylivingpickpocketinnewyork?showId=49354aba-3961-464e-81d4-5b92a16588b5"
+    },
+    {
+     "cinema_day": "2026-11-25",
      "start": "2026-11-25 18:50",
      "weekday": "Wed",
      "venue": "FC Hyena",
@@ -10550,37 +11343,6 @@
    ]
   },
   {
-   "title": "The Return",
-   "slug": "the-return",
-   "year": 2024,
-   "directors": [
-    "Uberto Pasolini"
-   ],
-   "cast": [
-    "Ralph Fiennes",
-    "Juliette Binoche"
-   ],
-   "duration": 116,
-   "languages": [
-    "en"
-   ],
-   "description": "Odysseus (Ralph Fiennes)komt na twintig jaar dwalen thuis uit Troje, en ziet dat zijn koninkrijk niet op hem heeft zitten wachten.",
-   "tags": [],
-   "screenings": [
-    {
-     "cinema_day": "2026-11-26",
-     "start": "2026-11-26 18:45",
-     "weekday": "Thu",
-     "venue": "Eye",
-     "subtitles": [
-      "en"
-     ],
-     "tags": [],
-     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327018"
-    }
-   ]
-  },
-  {
    "title": "The Return (2003)",
    "slug": "return",
    "year": 2003,
@@ -10593,7 +11355,9 @@
     "ru"
    ],
    "description": "Een mysterieuze reis, met prachtig camerawerk en hypnotiserende soundtrack.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-20",
@@ -10603,7 +11367,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325226"
     },
     {
@@ -10614,8 +11380,21 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326505"
+    },
+    {
+     "cinema_day": "2026-11-26",
+     "start": "2026-11-26 18:45",
+     "weekday": "Thu",
+     "venue": "Eye",
+     "subtitles": [
+      "en"
+     ],
+     "tags": [],
+     "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327018"
     }
    ]
   },
@@ -10923,6 +11702,15 @@
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/The-Year-of-the-Ghost-23-Nov-11929122"
     },
     {
+     "cinema_day": "2026-11-24",
+     "start": "2026-11-24 20:00",
+     "weekday": "Tue",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840017"
+    },
+    {
      "cinema_day": "2026-11-25",
      "start": "2026-11-25 18:15",
      "weekday": "Wed",
@@ -10930,6 +11718,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/The-Year-of-the-Ghost-25-Nov-11929089"
+    },
+    {
+     "cinema_day": "2026-11-25",
+     "start": "2026-11-25 19:15",
+     "weekday": "Wed",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840023"
     }
    ]
   },
@@ -11021,6 +11818,15 @@
    "description": "Terwijl de IJslandse gletsjers langzaam afsterven, duikt Schrijver Andri Snær Magnason in zijn archieven in de hoop de tijd even stil te zetten.",
    "tags": [],
    "screenings": [
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 18:45",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840000"
+    },
     {
      "cinema_day": "2026-11-23",
      "start": "2026-11-23 18:45",
@@ -11184,6 +11990,7 @@
    ],
    "description": "De Parijse Loran wil een nieuw thuis vinden op het afgelegen eiland Tristan da Cunha, maar toetreden tot een gemeenschap van 230 bewoners blijkt niet vanzelfsprekend.",
    "tags": [
+    "preview",
     "special"
    ],
    "screenings": [
@@ -11194,7 +12001,8 @@
      "venue": "IDFA",
      "subtitles": [],
      "tags": [
-      "special"
+      "special",
+      "preview"
      ],
      "tickets": "https://www.idfa.nl/vondelpark/agenda-het-documentaire-paviljoen"
     }
@@ -11351,6 +12159,17 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327808"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 10:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/23d6cd67-0e74-4c40-3330-08df35c690c2-vierminusdrei?showId=a56c4639-4d09-451e-be1c-ba7741f70bd1"
     }
    ]
   },
@@ -11412,6 +12231,15 @@
    "tags": [],
    "screenings": [
     {
+     "cinema_day": "2026-11-19",
+     "start": "2026-11-19 19:00",
+     "weekday": "Thu",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/a27fb95b-f777-48b3-5f62-08df1e57c0fb-wenermaaraan?showId=b7760de7-dca4-480b-b5b8-39d7913f4906"
+    },
+    {
      "cinema_day": "2026-11-20",
      "start": "2026-11-20 19:30",
      "weekday": "Fri",
@@ -11448,6 +12276,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": null
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 10:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/a27fb95b-f777-48b3-5f62-08df1e57c0fb-wenermaaraan?showId=bf875c40-5e00-4083-912b-fad1d475f81f"
     }
    ]
   },
@@ -12004,6 +12841,17 @@
     },
     {
      "cinema_day": "2026-11-21",
+     "start": "2026-11-21 15:45",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/9bbe06d9-c190-4f6d-2b5f-08df31ec8724-wildhorsenine?showId=e91e7e9c-f22b-49db-825c-8533c8f5d971"
+    },
+    {
+     "cinema_day": "2026-11-21",
      "start": "2026-11-21 16:00",
      "weekday": "Sat",
      "venue": "The Movies",
@@ -12134,6 +12982,17 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://kassa.studio-k.nu/#/checkout/e53873ce-f926-4746-8ce1-87ccaa1315df"
+    },
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 20:30",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/9bbe06d9-c190-4f6d-2b5f-08df31ec8724-wildhorsenine?showId=ea0b20b6-207a-41dd-8d30-3be13cc343b6"
     },
     {
      "cinema_day": "2026-11-21",
@@ -12281,6 +13140,17 @@
     },
     {
      "cinema_day": "2026-11-22",
+     "start": "2026-11-22 15:45",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/9bbe06d9-c190-4f6d-2b5f-08df31ec8724-wildhorsenine?showId=31b3b4ed-c52b-4d9d-ab19-27b7f05931a8"
+    },
+    {
+     "cinema_day": "2026-11-22",
      "start": "2026-11-22 16:00",
      "weekday": "Sun",
      "venue": "The Movies",
@@ -12409,6 +13279,17 @@
      ],
      "tags": [],
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1327634"
+    },
+    {
+     "cinema_day": "2026-11-22",
+     "start": "2026-11-22 20:30",
+     "weekday": "Sun",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/9bbe06d9-c190-4f6d-2b5f-08df31ec8724-wildhorsenine?showId=0fa43971-12f5-4535-8c22-5df0134130ad"
     },
     {
      "cinema_day": "2026-11-22",
@@ -12667,6 +13548,17 @@
    "description": "Sprookjesachtig animatie-avontuur van de makers van Coraline.",
    "tags": [],
    "screenings": [
+    {
+     "cinema_day": "2026-11-21",
+     "start": "2026-11-21 10:45",
+     "weekday": "Sat",
+     "venue": "Cinema The Pulse",
+     "subtitles": [
+      "nl"
+     ],
+     "tags": [],
+     "tickets": "https://cinemathepulse.com/films/8194c841-d17d-4520-daad-08df2dc1b370-wildwood?showId=74e35b18-ea48-4d19-a785-2358da88e4f0"
+    },
     {
      "cinema_day": "2026-11-21",
      "start": "2026-11-21 12:00",
