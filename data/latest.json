@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:53:52+01:00",
+ "generated_at": "2026-11-24T14:52:20+01:00",
  "city": "amsterdam",
  "from": "2026-11-24",
  "to": "2026-12-03",
@@ -7,13 +7,13 @@
  "screenings_per_day": {
   "2026-11-24": 61,
   "2026-11-25": 62,
-  "2026-11-26": 58,
-  "2026-11-27": 63,
-  "2026-11-28": 292,
-  "2026-11-29": 285,
-  "2026-11-30": 51,
-  "2026-12-01": 57,
-  "2026-12-02": 56,
+  "2026-11-26": 59,
+  "2026-11-27": 65,
+  "2026-11-28": 297,
+  "2026-11-29": 296,
+  "2026-11-30": 52,
+  "2026-12-01": 59,
+  "2026-12-02": 57,
   "2026-12-03": 8
  },
  "film_count": 168,
@@ -130,7 +130,9 @@
     "en"
    ],
    "description": "Een romantische tijdreis-komedie van schrijver en regisseur Richard Curtis (Love Actually).",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -140,7 +142,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328808"
     }
    ]
@@ -161,7 +165,9 @@
     "en"
    ],
    "description": "Sophie blikt terug op een luie vakantie met haar vader, en de dingen die ze als puber niet zag.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -171,7 +177,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328779"
     },
     {
@@ -182,7 +190,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328523"
     }
    ]
@@ -201,7 +211,9 @@
     "fr"
    ],
    "description": "De eerste twee afleveringen van Alice: Pioneer of Cinema, een historische dramaserie over 's werelds eerste vrouwelijke filmmaker.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -211,7 +223,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://cinemathepulse.com/films/efa7688f-bff2-40ed-6e6e-08d811efc508-unifranceseriesexpressalicepioneerofcinema?showId=9bb591e0-8171-417c-b6da-bda6329a873d"
     }
    ]
@@ -433,7 +447,9 @@
     "ja"
    ],
    "description": "Een koelbloedige criminele opdrachtgever raakt wanhopig als een van zijn plannen volledig in de soep loopt.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-01",
@@ -443,7 +459,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://cinemathepulse.com/films/efa7688f-bff2-40ed-6e6e-08d811efc508-andoshindejimafestival?showId=4d221ff4-ac83-443d-882f-a23e908d5efe"
     }
    ]
@@ -500,7 +518,9 @@
     "en"
    ],
    "description": "Klassiek tijdreisavontuur van Robert Zemeckis.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-02",
@@ -510,7 +530,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1325456"
     }
    ]
@@ -531,7 +553,9 @@
      "start": "2026-11-28 20:30",
      "weekday": "Sat",
      "venue": "Filmhuis Cavia",
-     "subtitles": [],
+     "subtitles": [
+      "en"
+     ],
      "tags": [],
      "tickets": null
     }
@@ -580,7 +604,9 @@
     "nl-NL"
    ],
    "description": "Een duik in de blauwe onderwaterwereld met het documentaireteam van Disney.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-01",
@@ -588,7 +614,9 @@
      "weekday": "Tue",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1313477"
     }
    ]
@@ -649,7 +677,9 @@
     "en"
    ],
    "description": "Klassieker over het politieke ontwaken van een jonge moeder in Watts, Los Angeles.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-27",
@@ -657,7 +687,9 @@
      "weekday": "Fri",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1319795"
     }
    ]
@@ -676,15 +708,21 @@
     "en"
    ],
    "description": "Een benedictijn beweerde in de jaren 50 de krui­si­ging van Christus te heb­ben gezien met de chrono­vi­sor: een machi­ne die alle gebeurtenissen ooit kan oproe­pen op een tv-scherm.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
      "start": "2026-11-29 20:30",
      "weekday": "Sun",
      "venue": "Filmhuis Cavia",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
      "tickets": null
     }
    ]
@@ -1624,7 +1662,9 @@
     "pl"
    ],
    "description": "Een liefdesverhaal in het Polen ten tijde van de Koude Oorlog. Van de regisseur van Oscarwinnaar Ida.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -1634,7 +1674,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328810"
     }
    ]
@@ -1710,7 +1752,9 @@
     "en"
    ],
    "description": "Een dove vrouw en een horende man proberen hun liefde voor elkaar te navigeren in een samenleving waarin racisme en vooroordelen over doofheid hun relaties onder druk zetten.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -1718,7 +1762,9 @@
      "weekday": "Sat",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1324861"
     }
    ]
@@ -1768,7 +1814,9 @@
     "fr"
    ],
    "description": "De eerste twee afleveringen van de serie Country Spy, over een onverwacht spionnen-duo.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -1778,7 +1826,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://cinemathepulse.com/films/efa7688f-bff2-40ed-6e6e-08d811efc508-unifranceseriesexpresscountryspy?showId=1c3ddc83-8f13-4927-82a9-a653ae0ff86b"
     }
    ]
@@ -2068,6 +2118,77 @@
    ]
   },
   {
+   "title": "De manager",
+   "slug": "de-manager",
+   "year": 2026,
+   "directors": [
+    "Maartje Bakers"
+   ],
+   "cast": [],
+   "duration": 71,
+   "languages": [
+    "nl"
+   ],
+   "description": "Een kijkje achter de gesloten deuren van het functioneringsgesprek.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-11-26",
+     "start": "2026-11-26 19:45",
+     "weekday": "Thu",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840049"
+    },
+    {
+     "cinema_day": "2026-11-27",
+     "start": "2026-11-27 18:45",
+     "weekday": "Fri",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840097"
+    },
+    {
+     "cinema_day": "2026-11-28",
+     "start": "2026-11-28 10:30",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840058"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 11:00",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840099"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 18:15",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840069"
+    },
+    {
+     "cinema_day": "2026-12-01",
+     "start": "2026-12-01 19:45",
+     "weekday": "Tue",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840114"
+    }
+   ]
+  },
+  {
    "title": "De spiegel",
    "slug": "spiegel",
    "year": 1974,
@@ -2084,7 +2205,9 @@
     "ru"
    ],
    "description": "Andrej Tarkovski blikt terug op zijn jeugd in de Tweede Wereldoorlog.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -2094,7 +2217,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328780"
     }
    ]
@@ -2192,9 +2317,7 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [
-      "classic"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322675"
     },
     {
@@ -2242,9 +2365,7 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [
-      "classic"
-     ],
+     "tags": [],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326922"
     },
     {
@@ -2357,9 +2478,7 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [
-      "classic"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1322680"
     },
     {
@@ -2451,15 +2570,13 @@
     },
     {
      "cinema_day": "2026-11-29",
-     "start": "2026-11-29 18:30",
+     "start": "2026-11-29 18:45",
      "weekday": "Sun",
      "venue": "Eye",
      "subtitles": [
       "nl"
      ],
-     "tags": [
-      "classic"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1328967"
     },
     {
@@ -2655,7 +2772,9 @@
     "en"
    ],
    "description": "Deze mogen ze nooit uit ons geheugen wissen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -2665,7 +2784,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328812"
     },
     {
@@ -2676,7 +2797,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1327995"
     }
    ]
@@ -2698,7 +2821,9 @@
     "en"
    ],
    "description": "Betoverende verfilming van het klassieke verhaal van Arthur en zijn ridders van de ronde tafel.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -2706,7 +2831,9 @@
      "weekday": "Sun",
      "venue": "The Movies",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://themovies.nl/tickets/198193"
     }
    ]
@@ -3857,7 +3984,7 @@
   {
    "title": "Fertile",
    "slug": "fertile",
-   "year": 0,
+   "year": 2026,
    "directors": [
     "Cédric Le Gallo"
    ],
@@ -3869,7 +3996,9 @@
    "duration": 113,
    "languages": [],
    "description": "De eerste drie afleveringen van serie Fertile, over Zoé die droomt van het moederschap, maar onvruchtbaar is. Totdat een bizar ongeluk dat verandert...",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -3879,7 +4008,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://cinemathepulse.com/films/efa7688f-bff2-40ed-6e6e-08d811efc508-unifranceseriesexpressfertile?showId=33b144d0-5c13-4b2b-9886-660ecea1b156"
     }
    ]
@@ -3924,7 +4055,9 @@
     "en"
    ],
    "description": "Documentaire over Sally, een Ethiopische vrouw die lid wordt van de communistische partij en op de lijst van meest gezochte personen van de militaire regering belandt.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -3932,7 +4065,9 @@
      "weekday": "Sun",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1322560"
     }
    ]
@@ -3976,7 +4111,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://cinemathepulse.com/films/f710e7f1-4ff4-4254-c088-08df494a424c-fjordvoorpremireenglishsubtitles?showId=231d27e7-1305-461d-a47b-ceca72d5726b"
     },
     {
@@ -3987,7 +4124,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/3ef8b60e-80ab-4e30-bcc5-a4b4ac2a0405"
     },
     {
@@ -3998,7 +4137,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://cinemathepulse.com/films/f710e7f1-4ff4-4254-c088-08df494a424c-fjordvoorpremire?showId=562bd4e8-aadf-412d-8fe9-b052cfab0d5b"
     },
     {
@@ -4009,7 +4150,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/2d095624-627f-4c8c-a3d0-0221918ea78c"
     },
     {
@@ -4044,7 +4187,9 @@
     "fr"
    ],
    "description": "Een eenzame Franse trucker ontmoet een Poolse collega op de snelweg en probeert zijn strakke ritten te combineren met de liefde.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-01",
@@ -4052,7 +4197,9 @@
      "weekday": "Tue",
      "venue": "Het Ketelhuis",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1328133"
     }
    ]
@@ -4516,7 +4663,9 @@
     "en"
    ],
    "description": "Een punkband speelt voor een club neonazi's en vecht ze tot bloedens toe de tent uit.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -4524,7 +4673,9 @@
      "weekday": "Sun",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328763"
     }
    ]
@@ -4542,7 +4693,9 @@
     "en"
    ],
    "description": "Kerstklassieker waarin een groep monsterlijke wezentjes op komische wijze gehakt maakt van de feestvreugde.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -4550,7 +4703,9 @@
      "weekday": "Sat",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1329504"
     }
    ]
@@ -4774,7 +4929,9 @@
     "nl-NL"
    ],
    "description": "Cinekid- en Gouden Kalf-winnaar naar het boek van Sjoerd Kuyper. 'Ik ben pas zes. Tim ik heb je mes.'",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -4782,7 +4939,9 @@
      "weekday": "Sun",
      "venue": "Eye",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1321453"
     }
    ]
@@ -5135,7 +5294,9 @@
    "duration": 90,
    "languages": [],
    "description": "Vijf korte animatiefilms waarin persoonlijke verlangens met de werkelijkheid botsen.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -5145,78 +5306,10 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323865"
-    }
-   ]
-  },
-  {
-   "title": "HOFF: Discover Kyrgyz Culture: Rituals, Food & Dance workshop",
-   "slug": "hoff-discover-kyrgyz-culture-rituals-food-dance-workshop",
-   "year": null,
-   "directors": [],
-   "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
-   "screenings": [
-    {
-     "cinema_day": "2026-11-28",
-     "start": "2026-11-28 14:00",
-     "weekday": "Sat",
-     "venue": "LAB111",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326955"
-    }
-   ]
-  },
-  {
-   "title": "HOFF: Workshop Film & Futurisms",
-   "slug": "hoff-workshop-film-futurisms",
-   "year": null,
-   "directors": [],
-   "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
-   "screenings": [
-    {
-     "cinema_day": "2026-11-28",
-     "start": "2026-11-28 12:15",
-     "weekday": "Sat",
-     "venue": "LAB111",
-     "subtitles": [
-      "en"
-     ],
-     "tags": [],
-     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323593"
-    }
-   ]
-  },
-  {
-   "title": "HOFF: Workshop Intersectional Feminist Writing & Zine-Making",
-   "slug": "hoff-workshop-intersectional-feminist-writing-zine-making",
-   "year": null,
-   "directors": [],
-   "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
-   "screenings": [
-    {
-     "cinema_day": "2026-11-29",
-     "start": "2026-11-29 12:15",
-     "weekday": "Sun",
-     "venue": "LAB111",
-     "subtitles": [
-      "en"
-     ],
-     "tags": [],
-     "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323796"
     }
    ]
   },
@@ -5462,7 +5555,9 @@
     "pl"
    ],
    "description": "Een in meesterlijk zwart-wit gefilmde roadmovie over grote dilemma's in immorele tijden.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -5472,7 +5567,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328777"
     },
     {
@@ -5483,7 +5580,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328034"
     }
    ]
@@ -5501,7 +5600,9 @@
     "es"
    ],
    "description": "Iluminada is een meisje met bijzondere gaven, die in een arme buitenwijk in Bogotá woont. Wanneer ze Juan ontmoet, begint ze voorzichtig te dromen van een ander leven.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -5511,7 +5612,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323802"
     }
    ]
@@ -5541,6 +5644,32 @@
    ]
   },
   {
+   "title": "Imago",
+   "slug": "imago-deni-oumar-pitsaev",
+   "year": 2025,
+   "directors": [
+    "Déni Oumar Pitsaev"
+   ],
+   "cast": [],
+   "duration": 109,
+   "languages": [
+    "ka"
+   ],
+   "description": "Wanneer filmmaker Déni een stuk land erft in Georgië, begint hij aan een zoektocht naar zijn roots.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 16:00",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840068"
+    }
+   ]
+  },
+  {
    "title": "In the Mood for Love",
    "slug": "mood-love",
    "year": 2000,
@@ -5554,15 +5683,21 @@
    "duration": 98,
    "languages": [],
    "description": "Een meesterlijke liefdeswals van regisseur Wong Kar-wai.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
      "start": "2026-11-29 12:30",
      "weekday": "Sun",
      "venue": "De Uitkijk",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1329160"
     }
    ]
@@ -5570,13 +5705,19 @@
   {
    "title": "Inch Forward",
    "slug": "inch-forward",
-   "year": null,
-   "directors": [],
+   "year": 2023,
+   "directors": [
+    "Su Yu-Chun"
+   ],
    "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
+   "duration": 82,
+   "languages": [
+    "ja-JP"
+   ],
+   "description": "Kiriko wil een roadmovie maken. Maar het budget is krap, de hoofdrol is nog steeds niet gecast en ze worstelt om de beelden in haar hoofd over te brengen.",
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-02",
@@ -5586,13 +5727,15 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://cinemathepulse.com/films/efa7688f-bff2-40ed-6e6e-08d811efc508-inchforwardshindejimafestival?showId=ca9052c9-e76a-4cd2-98a8-f5afd0e80d51"
     }
    ]
   },
   {
-   "title": "Jesus, Du weisst",
+   "title": "Jesus, du weisst",
    "slug": "jesus-du-weisst",
    "year": 2003,
    "directors": [
@@ -5608,7 +5751,9 @@
     "de"
    ],
    "description": "Ulrich Seidl (Paradies: Liebe) volgt mensen die vol overgave in de kerk bidden tot Jezus. Hij betekent alles voor hen: Vader en Vriend, Redder en Verlosser, wegwijzer en klaagmuur.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -5618,7 +5763,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1303672"
     }
    ]
@@ -5676,7 +5823,9 @@
      "weekday": "Thu",
      "venue": "Rialto Silo",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Killer-of-Sheep-26-Nov-11929446"
     },
     {
@@ -5702,6 +5851,15 @@
       "classic"
      ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1317089"
+    },
+    {
+     "cinema_day": "2026-11-28",
+     "start": "2026-11-28 12:00",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840059"
     },
     {
      "cinema_day": "2026-11-28",
@@ -5735,7 +5893,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7513"
     },
     {
@@ -5759,7 +5919,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/6930"
     },
     {
@@ -5781,7 +5943,9 @@
      "weekday": "Sun",
      "venue": "Rialto Silo",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Killer-of-Sheep-29-Nov-11929455"
     },
     {
@@ -5792,9 +5956,7 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [
-      "classic"
-     ],
+     "tags": [],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1325148"
     },
     {
@@ -5805,8 +5967,19 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1330111"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 16:15",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840103"
     },
     {
      "cinema_day": "2026-11-29",
@@ -5816,7 +5989,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://griffioen.vu.nl/bestel/7502"
     },
     {
@@ -5825,7 +6000,9 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Killer-of-Sheep-29-Nov-11929203"
     },
     {
@@ -5873,7 +6050,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1329741"
     }
    ]
@@ -5895,7 +6074,9 @@
     "fr"
    ],
    "description": "Een man vermoedt dat zijn vrouw een affaire heeft en huurt een privédetective in.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-27",
@@ -5903,7 +6084,9 @@
      "weekday": "Fri",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1317355"
     },
     {
@@ -5912,7 +6095,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1317356"
     },
     {
@@ -5923,7 +6108,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1311507"
     }
    ]
@@ -5943,7 +6130,9 @@
    "duration": 99,
    "languages": [],
    "description": "Carl Theodor Dreyers expressionistische klassieker over het veroordelingsproces van de beroemde 'Maagd van Orléans', Jeanne d'Arc.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -5951,7 +6140,9 @@
      "weekday": "Sun",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1318955"
     }
    ]
@@ -6144,7 +6335,9 @@
     "ru"
    ],
    "description": "Man vs. burgemeester (vs wodka).",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6154,7 +6347,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327825"
     },
     {
@@ -6165,7 +6360,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328022"
     }
    ]
@@ -6188,7 +6385,9 @@
     "ja-JP"
    ],
    "description": "Wanneer hun zangeres vlak voor het schoolfestival opstapt, besluiten drie Japanse scholieren een Koreaanse uitwisselingsstudente zonder muzikale ervaring te vragen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6196,7 +6395,9 @@
      "weekday": "Sat",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1321176"
     }
    ]
@@ -6216,7 +6417,9 @@
     "de"
    ],
    "description": "Lola rent drie keer. Net steeds een beetje anders.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6226,7 +6429,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328828"
     },
     {
@@ -6237,7 +6442,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315427"
     }
    ]
@@ -6259,7 +6466,9 @@
     "en"
    ],
    "description": "Tijdreisthriller met Bruce Willis en Joseph Gordon-Levitt (met Willis-neus). Allebei spelen ze de rol van huurmoordenaar Joe.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6269,7 +6478,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1328565"
     }
    ]
@@ -6291,7 +6502,9 @@
     "ru"
    ],
    "description": "Een aangrijpend Russisch drama van de regisseur van Leviathan (2014). Bekroond met de Juryprijs in Cannes in 2017.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-27",
@@ -6301,7 +6514,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327827"
     }
    ]
@@ -6309,13 +6524,19 @@
   {
    "title": "Lovers in the Blue Night",
    "slug": "lovers-in-the-blue-night",
-   "year": null,
-   "directors": [],
+   "year": 2026,
+   "directors": [
+    "Anuparna Roy"
+   ],
    "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
+   "duration": 107,
+   "languages": [
+    "hi"
+   ],
+   "description": "In een miljoenenstad als Mumbai zou je denken dat de liefde overal voor het oprapen ligt, maar dat blijkt dat een stuk ingewikkelder.",
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -6325,7 +6546,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323799"
     }
    ]
@@ -6376,7 +6599,9 @@
      "weekday": "Wed",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325089"
     },
     {
@@ -6407,7 +6632,9 @@
      "weekday": "Wed",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325242"
     }
    ]
@@ -6435,7 +6662,9 @@
      "weekday": "Thu",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325238"
     },
     {
@@ -6474,7 +6703,9 @@
    "duration": 102,
    "languages": [],
    "description": "Twee documentaires die laten zien hoe het onzichtbare een betekenisvolle plaats inneemt in Suriname.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -6482,7 +6713,9 @@
      "weekday": "Sun",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325240"
     }
    ]
@@ -6499,7 +6732,9 @@
    "duration": 91,
    "languages": [],
    "description": "Twee documentaires over jonge Surinamers die bouwen aan de toekomst van hun land.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-24",
@@ -6507,7 +6742,9 @@
      "weekday": "Tue",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325237"
     },
     {
@@ -6516,7 +6753,9 @@
      "weekday": "Tue",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325241"
     }
    ]
@@ -6533,7 +6772,9 @@
    "duration": 105,
    "languages": [],
    "description": "Twee Surinaamse documentaires over vormende relaties.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6541,7 +6782,9 @@
      "weekday": "Sat",
      "venue": "Cinema De Vlugt",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1325239"
     }
    ]
@@ -6563,7 +6806,9 @@
     "en"
    ],
    "description": "Mode, cake, champagne en dansen op New Order; dit was het hof van Versailles volgens Sofia Coppola.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6571,7 +6816,9 @@
      "weekday": "Sat",
      "venue": "De Uitkijk",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.uitkijk.nl/uitkijk/nl/flow_configs/webshop/steps/start/show/1329152"
     }
    ]
@@ -6594,7 +6841,9 @@
     "ru"
    ],
    "description": "Tijdens het onderzoek naar de dood van een jager, wordt een jonge rechercheur achtervolgd door mysterieuze visioenen.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -6604,7 +6853,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323790"
     }
    ]
@@ -6625,7 +6876,7 @@
    "languages": [
     "ru"
    ],
-   "description": "Loodzware politieke thriller van regisseur Andrey Zvyagintsev (Leviathan) over een Russische zakenman die de grip verliest op werk, in z'n land en in de liefde.",
+   "description": "Een politieke thriller van regisseur Andrey Zvyagintsev (Leviathan) over een Russische zakenman die de grip verliest op werk, in z'n land en in de liefde.",
    "tags": [],
    "screenings": [
     {
@@ -7299,7 +7550,16 @@
     },
     {
      "cinema_day": "2026-12-02",
-     "start": "2026-12-02 18:30",
+     "start": "2026-12-02 18:45",
+     "weekday": "Wed",
+     "venue": "Rialto Silo",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Minotaur-2-Dec-11929215"
+    },
+    {
+     "cinema_day": "2026-12-02",
+     "start": "2026-12-02 18:45",
      "weekday": "Wed",
      "venue": "Cinema The Pulse",
      "subtitles": [
@@ -7307,15 +7567,6 @@
      ],
      "tags": [],
      "tickets": "https://cinemathepulse.com/films/d78f35ed-95bb-495a-d01d-08df35e454b6-minotaur?showId=c2d6493c-d8ef-41df-8590-b824d69f82ca"
-    },
-    {
-     "cinema_day": "2026-12-02",
-     "start": "2026-12-02 18:45",
-     "weekday": "Wed",
-     "venue": "Rialto Silo",
-     "subtitles": [],
-     "tags": [],
-     "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Minotaur-2-Dec-11929215"
     },
     {
      "cinema_day": "2026-12-02",
@@ -7351,21 +7602,27 @@
   {
    "title": "Mirage",
    "slug": "mirage",
-   "year": null,
+   "year": 0,
    "directors": [],
    "cast": [],
-   "duration": null,
+   "duration": 0,
    "languages": [],
-   "description": "",
-   "tags": [],
+   "description": "Filmmaker Nawa's vader is zolang ze zich kan herinneren verslaafd aan drugs. Nu het eindelijk wat beter met hem gaat, is er ruimte voor gesprek.",
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-26",
      "start": "2026-11-26 19:30",
      "weekday": "Thu",
      "venue": "Cinema De Vlugt",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1321906"
     },
     {
@@ -7373,8 +7630,12 @@
      "start": "2026-11-27 19:30",
      "weekday": "Fri",
      "venue": "Cinema De Vlugt",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1321917"
     },
     {
@@ -7382,8 +7643,12 @@
      "start": "2026-11-28 16:00",
      "weekday": "Sat",
      "venue": "Cinema De Vlugt",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.cinemadevlugt.nl/cinemadevlugt/nl/flow_configs/tickets/steps/start/show/1321918"
     }
    ]
@@ -7436,7 +7701,9 @@
     "de"
    ],
    "description": "Weduwnaar Sepp en weduwe Paula ontmoeten elkaar op de grens tussen Oostenrijk en Tsjechië, vlak na de val van het IJzeren Gordijn.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-02",
@@ -7446,7 +7713,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1305349"
     }
    ]
@@ -7530,12 +7799,16 @@
   {
    "title": "My Brother's Wedding",
    "slug": "my-brothers-wedding",
-   "year": null,
-   "directors": [],
+   "year": 1983,
+   "directors": [
+    "Charles Burnett"
+   ],
    "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
+   "duration": 81,
+   "languages": [
+    "en"
+   ],
+   "description": "Zijn vrienden van vroeger zitten in de gevangenis of zijn overleden. Zijn broer gaat met een advocaat trouwen. En Pierce zelf heeft nog geen idee wat hij eigenlijk wil in het leven.",
    "tags": [
     "classic"
    ],
@@ -7976,6 +8249,15 @@
     },
     {
      "cinema_day": "2026-11-28",
+     "start": "2026-11-28 15:30",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840061"
+    },
+    {
+     "cinema_day": "2026-11-28",
      "start": "2026-11-28 16:40",
      "weekday": "Sat",
      "venue": "De Uitkijk",
@@ -7993,6 +8275,15 @@
      ],
      "tags": [],
      "tickets": "https://griffioen.vu.nl/bestel/7521"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 10:30",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840065"
     },
     {
      "cinema_day": "2026-11-29",
@@ -8015,6 +8306,15 @@
      ],
      "tags": [],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Naza-29-Nov-11929338"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 12:45",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840101"
     },
     {
      "cinema_day": "2026-11-29",
@@ -8141,13 +8441,19 @@
   {
    "title": "One Woman, One Bra",
    "slug": "one-woman-one-bra",
-   "year": null,
-   "directors": [],
+   "year": 2026,
+   "directors": [
+    "Vincho Nchogu"
+   ],
    "cast": [],
-   "duration": null,
-   "languages": [],
-   "description": "",
-   "tags": [],
+   "duration": 80,
+   "languages": [
+    "sw"
+   ],
+   "description": "In het Keniaanse dorp Sayit staat iets bijzonders te gebeuren: voor het eerst in eeuwen krijgen de bewoners hun grond officieel op naam. Behalve de 38-jarige Star.",
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -8157,7 +8463,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323776"
     }
    ]
@@ -8213,7 +8521,9 @@
     "en"
    ],
    "description": "Sydney is door dingo's opgevoed. Ze ontdekt dat ze is voorbestemd voor iets veel groters: ze is de nieuwe messias.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -8221,7 +8531,9 @@
      "weekday": "Sat",
      "venue": "Kriterion",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1323794"
     }
    ]
@@ -8549,7 +8861,9 @@
     "en"
    ],
    "description": "Een onvergetelijke roadmovie waarin Wim Wenders Europees sentiment versmelt met Amerikaanse grandeur.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -8557,18 +8871,20 @@
      "weekday": "Sun",
      "venue": "Rialto De Pijp",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Paris-Texas-29-Nov-11929349"
     }
    ]
   },
   {
-   "title": "Passion (2026)",
+   "title": "Passion (2008)",
    "slug": "passion-2026",
-   "year": null,
+   "year": 0,
    "directors": [],
    "cast": [],
-   "duration": null,
+   "duration": 0,
    "languages": [],
    "description": "",
    "tags": [],
@@ -8603,7 +8919,9 @@
     "bn"
    ],
    "description": "Het veelvuldig bekroonde eerste deel uit de zogenaamde Apu-trilogie, waarin regisseur Satyajit Ray het alledaagse leven aan de onderkant van de Indiase maatschappij belicht.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -8613,7 +8931,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1321377"
     }
    ]
@@ -8636,7 +8956,8 @@
    ],
    "description": "Ingmar Bergmans tijdloze drama over verpleegster Alma (Bibi Andersson) en haar patiënt, de beroemde actrice Elisabet Vogler (Liv Ullman).",
    "tags": [
-    "classic"
+    "classic",
+    "preview"
    ],
    "screenings": [
     {
@@ -8648,7 +8969,8 @@
       "nl"
      ],
      "tags": [
-      "classic"
+      "classic",
+      "preview"
      ],
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1324868"
     }
@@ -8693,13 +9015,15 @@
   {
    "title": "Poetic Shorts: In Other Words",
    "slug": "poetic-shorts-in-other-words",
-   "year": null,
+   "year": 2026,
    "directors": [],
    "cast": [],
-   "duration": null,
+   "duration": 90,
    "languages": [],
-   "description": "",
-   "tags": [],
+   "description": "Zes korte films met verhalen die zich niet zomaar in woorden laten vangen. In Other Words verkent de grens tussen wat we kunnen vertellen en wat we alleen kunnen voelen.",
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -8709,7 +9033,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1323793"
     }
    ]
@@ -9548,7 +9874,9 @@
     "en"
    ],
    "description": "Paul Verhoevens beruchte cultfavoriet over een topless showgirl in Las Vegas.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-12-01",
@@ -9556,7 +9884,9 @@
      "weekday": "Tue",
      "venue": "FC Hyena",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.fchyena.nl/fchyena/nl/flow_configs/fchy_1s/steps/start/show/1327004"
     }
    ]
@@ -9598,15 +9928,21 @@
    "duration": null,
    "languages": [],
    "description": "",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-26",
      "start": "2026-11-26 19:15",
      "weekday": "Thu",
      "venue": "Filmhuis Cavia",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
      "tickets": null
     }
    ]
@@ -9629,7 +9965,9 @@
     "de"
    ],
    "description": "Een nieuwe ongemakkelijke film van de Oostenrijkse provocateur Ulrich Seidl (Paradies: Liebe, Rimini).",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -9639,7 +9977,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1323661"
     }
    ]
@@ -9711,6 +10051,15 @@
     },
     {
      "cinema_day": "2026-11-28",
+     "start": "2026-11-28 13:45",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840060"
+    },
+    {
+     "cinema_day": "2026-11-28",
      "start": "2026-11-28 19:00",
      "weekday": "Sat",
      "venue": "Het Ketelhuis",
@@ -9729,12 +10078,30 @@
     },
     {
      "cinema_day": "2026-11-29",
+     "start": "2026-11-29 12:15",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840066"
+    },
+    {
+     "cinema_day": "2026-11-29",
      "start": "2026-11-29 14:15",
      "weekday": "Sun",
      "venue": "Het Ketelhuis",
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets.ketelhuis.nl/ketelhuis/nl/flow_configs/webshop/steps/start/show/1330197"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 18:00",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840104"
     },
     {
      "cinema_day": "2026-11-30",
@@ -9774,7 +10141,9 @@
     "en"
    ],
    "description": "'Would you still love me if I was a beast?'",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -9782,8 +10151,39 @@
      "weekday": "Sat",
      "venue": "Kriterion",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1323778"
+    }
+   ]
+  },
+  {
+   "title": "Stand Up",
+   "slug": "stand-up",
+   "year": 2026,
+   "directors": [
+    "Mari Sanders"
+   ],
+   "cast": [
+    "Lucia Zemene",
+    "Daan Buringa"
+   ],
+   "duration": 96,
+   "languages": [
+    "nl"
+   ],
+   "description": "Na een ongeluk belandt Vera in een onbekende wereld, waarin Xander haar de weg wijst.",
+   "tags": [],
+   "screenings": [
+    {
+     "cinema_day": "2026-11-30",
+     "start": "2026-11-30 19:15",
+     "weekday": "Mon",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840076"
     }
    ]
   },
@@ -9798,7 +10198,9 @@
     "en"
    ],
    "description": "De Star Trek-crew voert oorlog tegen de Borg, maar als de Borg door de tijd reist om een belangrijk persoon te vermoorden, moet de Picard dat voorkomen.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-25",
@@ -9806,7 +10208,9 @@
      "weekday": "Wed",
      "venue": "LAB111",
      "subtitles": [],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1326506"
     }
    ]
@@ -9848,7 +10252,9 @@
     "en"
    ],
    "description": "Lieflijke klassieker van regisseur Charles Burnett (Killer of Sheep) over drie onwaarschijnlijke huisgenoten in LA.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -9858,7 +10264,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1319303"
     }
    ]
@@ -10302,7 +10710,7 @@
     },
     {
      "cinema_day": "2026-11-29",
-     "start": "2026-11-29 21:00",
+     "start": "2026-11-29 21:15",
      "weekday": "Sun",
      "venue": "Eye",
      "subtitles": [
@@ -10354,7 +10762,7 @@
    "screenings": [
     {
      "cinema_day": "2026-11-29",
-     "start": "2026-11-29 18:45",
+     "start": "2026-11-29 18:30",
      "weekday": "Sun",
      "venue": "Eye",
      "subtitles": [],
@@ -10761,7 +11169,9 @@
     "en"
    ],
    "description": "Mega-regisseur Christopher Nolan verfilmt het mega-verhaal van Odysseus.",
-   "tags": [],
+   "tags": [
+    "70mm"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-28",
@@ -10771,7 +11181,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "70mm"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326705"
     },
     {
@@ -10782,7 +11194,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "70mm"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1326704"
     }
    ]
@@ -11476,7 +11890,9 @@
     "ru"
    ],
    "description": "Een mysterieuze reis, met prachtig camerawerk en hypnotiserende soundtrack.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-26",
@@ -11486,7 +11902,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://kaarten.eyefilm.nl/eye/nl/flow_configs/webshop/steps/order/show/1327018"
     }
    ]
@@ -11504,15 +11922,21 @@
     "pt"
    ],
    "description": "Documentaire The Territory vertelt het verhaal van de Uru-eu-wau-wau, met filmbeelden die dit volk uit de Amazone zelf heeft geschoten.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-27",
      "start": "2026-11-27 18:00",
      "weekday": "Fri",
      "venue": "Filmhuis Cavia",
-     "subtitles": [],
-     "tags": [],
+     "subtitles": [
+      "en"
+     ],
+     "tags": [
+      "special"
+     ],
      "tickets": null
     }
    ]
@@ -11530,7 +11954,9 @@
     "fr"
    ],
    "description": "Een avontuurlijke sciencefiction-animatiefilm uit 1982, visueel vormgegeven door de legendarische striptekenaar Jean Giraud.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-26",
@@ -11540,7 +11966,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1311433"
     }
    ]
@@ -11649,6 +12077,15 @@
     },
     {
      "cinema_day": "2026-11-28",
+     "start": "2026-11-28 19:00",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840063"
+    },
+    {
+     "cinema_day": "2026-11-28",
      "start": "2026-11-28 19:30",
      "weekday": "Sat",
      "venue": "Rialto Silo",
@@ -11675,6 +12112,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/The-Year-of-the-Ghost-29-Nov-11929454"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 19:45",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840070"
     },
     {
      "cinema_day": "2026-11-29",
@@ -11719,6 +12165,15 @@
       "special"
      ],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/The-Year-of-the-Ghost-1-Dec-11929139"
+    },
+    {
+     "cinema_day": "2026-12-02",
+     "start": "2026-12-02 18:45",
+     "weekday": "Wed",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840088"
     }
    ]
   },
@@ -11859,6 +12314,15 @@
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Time-and-Water-27-Nov-11929237"
     },
     {
+     "cinema_day": "2026-11-27",
+     "start": "2026-11-27 19:45",
+     "weekday": "Fri",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840056"
+    },
+    {
      "cinema_day": "2026-11-28",
      "start": "2026-11-28 11:00",
      "weekday": "Sat",
@@ -11910,6 +12374,15 @@
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Time-and-Water-28-Nov-11929378"
     },
     {
+     "cinema_day": "2026-11-28",
+     "start": "2026-11-28 17:15",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840062"
+    },
+    {
      "cinema_day": "2026-11-29",
      "start": "2026-11-29 12:50",
      "weekday": "Sun",
@@ -11930,6 +12403,15 @@
      ],
      "tags": [],
      "tickets": "https://filmhallen.nl/tickets/209250"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 14:15",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840102"
     },
     {
      "cinema_day": "2026-11-29",
@@ -11959,6 +12441,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Time-and-Water-29-Nov-11929432"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 20:00",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840105"
     },
     {
      "cinema_day": "2026-11-30",
@@ -12051,7 +12542,9 @@
     "en"
    ],
    "description": "Buitenaards wezen Scarlett Johansson gaat op jacht naar mannelijk vlees.",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-27",
@@ -12061,7 +12554,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315174"
     }
    ]
@@ -12113,7 +12608,9 @@
     "fr"
    ],
    "description": "Van schrijver-regisseur Jean-Pierre Jeunet (Amélie) met Leïla Bekhti, Matthias Schoenaerts en Melvil Poupaud in de Bourgogne.",
-   "tags": [],
+   "tags": [
+    "preview"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -12123,7 +12620,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "preview"
+     ],
      "tickets": "https://kassa.cinecenter.nl/#/checkout/802efe29-dbda-458e-b4b6-2c8b91de645a"
     }
    ]
@@ -12261,6 +12760,15 @@
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Whispers-in-May-28-Nov-11929335"
     },
     {
+     "cinema_day": "2026-11-28",
+     "start": "2026-11-28 21:00",
+     "weekday": "Sat",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840064"
+    },
+    {
      "cinema_day": "2026-11-29",
      "start": "2026-11-29 12:45",
      "weekday": "Sun",
@@ -12268,6 +12776,15 @@
      "subtitles": [],
      "tags": [],
      "tickets": "https://tickets-depijp.rialtofilm.nl/Show/Details/Whispers-in-May-29-Nov-11929380"
+    },
+    {
+     "cinema_day": "2026-11-29",
+     "start": "2026-11-29 14:00",
+     "weekday": "Sun",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840067"
     },
     {
      "cinema_day": "2026-11-29",
@@ -12279,6 +12796,15 @@
      ],
      "tags": [],
      "tickets": "https://tickets-silo.rialtofilm.nl/Show/Details/Whispers-in-May-29-Nov-11929331"
+    },
+    {
+     "cinema_day": "2026-12-01",
+     "start": "2026-12-01 19:00",
+     "weekday": "Tue",
+     "venue": "De Balie",
+     "subtitles": [],
+     "tags": [],
+     "tickets": "https://tickets.debalie.nl/Show/Details/11840082"
     }
    ]
   },
@@ -13411,7 +13937,9 @@
     "en"
    ],
    "description": "Het moderne leven in een notendop.",
-   "tags": [],
+   "tags": [
+    "classic"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -13421,7 +13949,9 @@
      "subtitles": [
       "en"
      ],
-     "tags": [],
+     "tags": [
+      "classic"
+     ],
      "tickets": "https://tickets.lab111.nl/labcinema/nl/flow_configs/webshop/steps/start/show/1315426"
     }
    ]
@@ -13572,7 +14102,9 @@
     "en"
    ],
    "description": "De nieuwe film van Paolo Sorrentino (La Grande Bellezza).",
-   "tags": [],
+   "tags": [
+    "special"
+   ],
    "screenings": [
     {
      "cinema_day": "2026-11-29",
@@ -13582,7 +14114,9 @@
      "subtitles": [
       "nl"
      ],
-     "tags": [],
+     "tags": [
+      "special"
+     ],
      "tickets": "https://tickets.kriterion.nl/kriterion/nl/flow_configs/webshop/steps/start/show/1322475"
     }
    ]
